@@ -1,0 +1,2551 @@
+start,destination,regular_fare,discounted_fare
+Airport,Meenambakkam,10,8
+Airport,OTA - Nanganallur Road,20,16
+Airport,Arignar Anna Alandur Metro,20,16
+Airport,Guindy,30,24
+Airport,Little Mount,30,24
+Airport,Saidapet,30,24
+Airport,Nandanam,30,24
+Airport,Teynampet,30,24
+Airport,Thousand Lights,40,32
+Airport,AG-DMS,40,32
+Airport,LIC,40,32
+Airport,Government Estate,40,32
+Airport,Central Metro,40,32
+Airport,High Court,40,32
+Airport,Mannadi,40,32
+Airport,Washermanpet,50,40
+Airport,Thyagaraya College,50,40
+Airport,Tondiarpet,50,40
+Airport,New Washermenpet,50,40
+Airport,Tollgate,50,40
+Airport,Kaladipet,50,40
+Airport,Thiruvottriyur Theradi,50,40
+Airport,Thiruvottriyur,50,40
+Airport,Wimconagar,50,40
+Airport,Wimco Nagar Depot,50,40
+Airport,St Thomas Mount,30,24
+Airport,Ekkattuthangal,30,24
+Airport,Ashok Nagar,30,24
+Airport,Vadapalani,30,24
+Airport,Arumbakkam,30,24
+Airport,CMBT Metro,40,32
+Airport,Koyambedu,40,32
+Airport,Thirumangalam,40,32
+Airport,Anna Nagar Tower,40,32
+Airport,Anna Nagar East,40,32
+Airport,Shenoy Nagar,40,32
+Airport,Pachiappas College,40,32
+Airport,Kilpauk,50,40
+Airport,Nehru Park,40,32
+Airport,Egmore,40,32
+Airport,Porur Junction,40,32
+Airport,Porur Bypass,40,32
+Airport,Thelliyaragaram,40,32
+Airport,Iyappanthangal,40,32
+Airport,Kattupakkam,40,32
+Airport,Kumananchavadi,40,32
+Airport,Karayanchavadi,50,40
+Airport,Poonamallee Government Hospital,50,40
+Airport,Poonamallee Bus Stand,50,40
+Airport,Poonamallee Bypass,50,40
+Meenambakkam,Airport,10,8
+Meenambakkam,OTA - Nanganallur Road,20,16
+Meenambakkam,Arignar Anna Alandur Metro,20,16
+Meenambakkam,Guindy,20,16
+Meenambakkam,Little Mount,30,24
+Meenambakkam,Saidapet,30,24
+Meenambakkam,Nandanam,30,24
+Meenambakkam,Teynampet,30,24
+Meenambakkam,Thousand Lights,30,24
+Meenambakkam,AG-DMS,40,32
+Meenambakkam,LIC,40,32
+Meenambakkam,Government Estate,40,32
+Meenambakkam,Central Metro,40,32
+Meenambakkam,High Court,40,32
+Meenambakkam,Mannadi,40,32
+Meenambakkam,Washermanpet,40,32
+Meenambakkam,Thyagaraya College,50,40
+Meenambakkam,Tondiarpet,50,40
+Meenambakkam,New Washermenpet,50,40
+Meenambakkam,Tollgate,50,40
+Meenambakkam,Kaladipet,50,40
+Meenambakkam,Thiruvottriyur Theradi,50,40
+Meenambakkam,Thiruvottriyur,50,40
+Meenambakkam,Wimconagar,50,40
+Meenambakkam,Wimco Nagar Depot,50,40
+Meenambakkam,St Thomas Mount,20,16
+Meenambakkam,Ekkattuthangal,20,16
+Meenambakkam,Ashok Nagar,30,24
+Meenambakkam,Vadapalani,30,24
+Meenambakkam,Arumbakkam,30,24
+Meenambakkam,CMBT Metro,30,24
+Meenambakkam,Koyambedu,40,32
+Meenambakkam,Thirumangalam,40,32
+Meenambakkam,Anna Nagar Tower,40,32
+Meenambakkam,Anna Nagar East,40,32
+Meenambakkam,Shenoy Nagar,40,32
+Meenambakkam,Pachiappas College,40,32
+Meenambakkam,Kilpauk,40,32
+Meenambakkam,Nehru Park,40,32
+Meenambakkam,Egmore,40,32
+Meenambakkam,Porur Junction,40,32
+Meenambakkam,Porur Bypass,40,32
+Meenambakkam,Thelliyaragaram,40,32
+Meenambakkam,Iyappanthangal,40,32
+Meenambakkam,Kattupakkam,40,32
+Meenambakkam,Kumananchavadi,40,32
+Meenambakkam,Karayanchavadi,40,32
+Meenambakkam,Poonamallee Government Hospital,50,40
+Meenambakkam,Poonamallee Bus Stand,50,40
+Meenambakkam,Poonamallee Bypass,50,40
+OTA - Nanganallur Road,Airport,20,16
+OTA - Nanganallur Road,Meenambakkam,20,16
+OTA - Nanganallur Road,Arignar Anna Alandur Metro,10,8
+OTA - Nanganallur Road,Guindy,20,16
+OTA - Nanganallur Road,Little Mount,20,16
+OTA - Nanganallur Road,Saidapet,20,16
+OTA - Nanganallur Road,Nandanam,30,24
+OTA - Nanganallur Road,Teynampet,30,24
+OTA - Nanganallur Road,Thousand Lights,30,24
+OTA - Nanganallur Road,AG-DMS,30,24
+OTA - Nanganallur Road,LIC,30,24
+OTA - Nanganallur Road,Government Estate,40,32
+OTA - Nanganallur Road,Central Metro,40,32
+OTA - Nanganallur Road,High Court,40,32
+OTA - Nanganallur Road,Mannadi,40,32
+OTA - Nanganallur Road,Washermanpet,40,32
+OTA - Nanganallur Road,Thyagaraya College,40,32
+OTA - Nanganallur Road,Tondiarpet,40,32
+OTA - Nanganallur Road,New Washermenpet,50,40
+OTA - Nanganallur Road,Tollgate,50,40
+OTA - Nanganallur Road,Kaladipet,50,40
+OTA - Nanganallur Road,Thiruvottriyur Theradi,50,40
+OTA - Nanganallur Road,Thiruvottriyur,50,40
+OTA - Nanganallur Road,Wimconagar,50,40
+OTA - Nanganallur Road,Wimco Nagar Depot,50,40
+OTA - Nanganallur Road,St Thomas Mount,20,16
+OTA - Nanganallur Road,Ekkattuthangal,20,16
+OTA - Nanganallur Road,Ashok Nagar,20,16
+OTA - Nanganallur Road,Vadapalani,30,24
+OTA - Nanganallur Road,Arumbakkam,30,24
+OTA - Nanganallur Road,CMBT Metro,30,24
+OTA - Nanganallur Road,Koyambedu,30,24
+OTA - Nanganallur Road,Thirumangalam,40,32
+OTA - Nanganallur Road,Anna Nagar Tower,40,32
+OTA - Nanganallur Road,Anna Nagar East,40,32
+OTA - Nanganallur Road,Shenoy Nagar,40,32
+OTA - Nanganallur Road,Pachiappas College,40,32
+OTA - Nanganallur Road,Kilpauk,40,32
+OTA - Nanganallur Road,Nehru Park,40,32
+OTA - Nanganallur Road,Egmore,40,32
+OTA - Nanganallur Road,Porur Junction,40,32
+OTA - Nanganallur Road,Porur Bypass,40,32
+OTA - Nanganallur Road,Thelliyaragaram,40,32
+OTA - Nanganallur Road,Iyappanthangal,40,32
+OTA - Nanganallur Road,Kattupakkam,40,32
+OTA - Nanganallur Road,Kumananchavadi,40,32
+OTA - Nanganallur Road,Karayanchavadi,40,32
+OTA - Nanganallur Road,Poonamallee Government Hospital,40,32
+OTA - Nanganallur Road,Poonamallee Bus Stand,40,32
+OTA - Nanganallur Road,Poonamallee Bypass,50,40
+Arignar Anna Alandur Metro,Airport,20,16
+Arignar Anna Alandur Metro,Meenambakkam,20,16
+Arignar Anna Alandur Metro,OTA - Nanganallur Road,10,8
+Arignar Anna Alandur Metro,Guindy,10,8
+Arignar Anna Alandur Metro,Little Mount,20,16
+Arignar Anna Alandur Metro,Saidapet,20,16
+Arignar Anna Alandur Metro,Nandanam,30,24
+Arignar Anna Alandur Metro,Teynampet,30,24
+Arignar Anna Alandur Metro,Thousand Lights,30,24
+Arignar Anna Alandur Metro,AG-DMS,30,24
+Arignar Anna Alandur Metro,LIC,30,24
+Arignar Anna Alandur Metro,Government Estate,30,24
+Arignar Anna Alandur Metro,Central Metro,40,32
+Arignar Anna Alandur Metro,High Court,40,32
+Arignar Anna Alandur Metro,Mannadi,40,32
+Arignar Anna Alandur Metro,Washermanpet,40,32
+Arignar Anna Alandur Metro,Thyagaraya College,40,32
+Arignar Anna Alandur Metro,Tondiarpet,40,32
+Arignar Anna Alandur Metro,New Washermenpet,40,32
+Arignar Anna Alandur Metro,Tollgate,50,40
+Arignar Anna Alandur Metro,Kaladipet,50,40
+Arignar Anna Alandur Metro,Thiruvottriyur Theradi,50,40
+Arignar Anna Alandur Metro,Thiruvottriyur,50,40
+Arignar Anna Alandur Metro,Wimconagar,50,40
+Arignar Anna Alandur Metro,Wimco Nagar Depot,50,40
+Arignar Anna Alandur Metro,St Thomas Mount,10,8
+Arignar Anna Alandur Metro,Ekkattuthangal,10,8
+Arignar Anna Alandur Metro,Ashok Nagar,20,16
+Arignar Anna Alandur Metro,Vadapalani,30,24
+Arignar Anna Alandur Metro,Arumbakkam,30,24
+Arignar Anna Alandur Metro,CMBT Metro,30,24
+Arignar Anna Alandur Metro,Koyambedu,30,24
+Arignar Anna Alandur Metro,Thirumangalam,30,24
+Arignar Anna Alandur Metro,Anna Nagar Tower,30,24
+Arignar Anna Alandur Metro,Anna Nagar East,40,32
+Arignar Anna Alandur Metro,Shenoy Nagar,40,32
+Arignar Anna Alandur Metro,Pachiappas College,40,32
+Arignar Anna Alandur Metro,Kilpauk,40,32
+Arignar Anna Alandur Metro,Nehru Park,40,32
+Arignar Anna Alandur Metro,Egmore,40,32
+Arignar Anna Alandur Metro,Porur Junction,30,24
+Arignar Anna Alandur Metro,Porur Bypass,40,32
+Arignar Anna Alandur Metro,Thelliyaragaram,40,32
+Arignar Anna Alandur Metro,Iyappanthangal,40,32
+Arignar Anna Alandur Metro,Kattupakkam,40,32
+Arignar Anna Alandur Metro,Kumananchavadi,40,32
+Arignar Anna Alandur Metro,Karayanchavadi,40,32
+Arignar Anna Alandur Metro,Poonamallee Government Hospital,40,32
+Arignar Anna Alandur Metro,Poonamallee Bus Stand,40,32
+Arignar Anna Alandur Metro,Poonamallee Bypass,40,32
+Guindy,Airport,30,24
+Guindy,Meenambakkam,20,16
+Guindy,OTA - Nanganallur Road,20,16
+Guindy,Arignar Anna Alandur Metro,10,8
+Guindy,Little Mount,10,8
+Guindy,Saidapet,20,16
+Guindy,Nandanam,20,16
+Guindy,Teynampet,20,16
+Guindy,Thousand Lights,30,24
+Guindy,AG-DMS,30,24
+Guindy,LIC,30,24
+Guindy,Government Estate,30,24
+Guindy,Central Metro,30,24
+Guindy,High Court,40,32
+Guindy,Mannadi,40,32
+Guindy,Washermanpet,40,32
+Guindy,Thyagaraya College,40,32
+Guindy,Tondiarpet,40,32
+Guindy,New Washermenpet,40,32
+Guindy,Tollgate,40,32
+Guindy,Kaladipet,40,32
+Guindy,Thiruvottriyur Theradi,50,40
+Guindy,Thiruvottriyur,50,40
+Guindy,Wimconagar,50,40
+Guindy,Wimco Nagar Depot,50,40
+Guindy,St Thomas Mount,20,16
+Guindy,Ekkattuthangal,20,16
+Guindy,Ashok Nagar,20,16
+Guindy,Vadapalani,30,24
+Guindy,Arumbakkam,30,24
+Guindy,CMBT Metro,30,24
+Guindy,Koyambedu,30,24
+Guindy,Thirumangalam,40,32
+Guindy,Anna Nagar Tower,40,32
+Guindy,Anna Nagar East,40,32
+Guindy,Shenoy Nagar,40,32
+Guindy,Pachiappas College,40,32
+Guindy,Kilpauk,40,32
+Guindy,Nehru Park,40,32
+Guindy,Egmore,40,32
+Guindy,Porur Junction,40,32
+Guindy,Porur Bypass,40,32
+Guindy,Thelliyaragaram,40,32
+Guindy,Iyappanthangal,40,32
+Guindy,Kattupakkam,40,32
+Guindy,Kumananchavadi,40,32
+Guindy,Karayanchavadi,40,32
+Guindy,Poonamallee Government Hospital,40,32
+Guindy,Poonamallee Bus Stand,40,32
+Guindy,Poonamallee Bypass,50,40
+Little Mount,Airport,30,24
+Little Mount,Meenambakkam,30,24
+Little Mount,OTA - Nanganallur Road,20,16
+Little Mount,Arignar Anna Alandur Metro,20,16
+Little Mount,Guindy,10,8
+Little Mount,Saidapet,10,8
+Little Mount,Nandanam,20,16
+Little Mount,Teynampet,20,16
+Little Mount,Thousand Lights,20,16
+Little Mount,AG-DMS,30,24
+Little Mount,LIC,30,24
+Little Mount,Government Estate,30,24
+Little Mount,Central Metro,30,24
+Little Mount,High Court,30,24
+Little Mount,Mannadi,40,32
+Little Mount,Washermanpet,40,32
+Little Mount,Thyagaraya College,40,32
+Little Mount,Tondiarpet,40,32
+Little Mount,New Washermenpet,40,32
+Little Mount,Tollgate,40,32
+Little Mount,Kaladipet,40,32
+Little Mount,Thiruvottriyur Theradi,40,32
+Little Mount,Thiruvottriyur,50,40
+Little Mount,Wimconagar,50,40
+Little Mount,Wimco Nagar Depot,50,40
+Little Mount,St Thomas Mount,20,16
+Little Mount,Ekkattuthangal,20,16
+Little Mount,Ashok Nagar,30,24
+Little Mount,Vadapalani,30,24
+Little Mount,Arumbakkam,30,24
+Little Mount,CMBT Metro,30,24
+Little Mount,Koyambedu,30,24
+Little Mount,Thirumangalam,40,32
+Little Mount,Anna Nagar Tower,40,32
+Little Mount,Anna Nagar East,40,32
+Little Mount,Shenoy Nagar,40,32
+Little Mount,Pachiappas College,40,32
+Little Mount,Kilpauk,40,32
+Little Mount,Nehru Park,40,32
+Little Mount,Egmore,30,24
+Little Mount,Porur Junction,40,32
+Little Mount,Porur Bypass,40,32
+Little Mount,Thelliyaragaram,40,32
+Little Mount,Iyappanthangal,40,32
+Little Mount,Kattupakkam,40,32
+Little Mount,Kumananchavadi,40,32
+Little Mount,Karayanchavadi,40,32
+Little Mount,Poonamallee Government Hospital,40,32
+Little Mount,Poonamallee Bus Stand,50,40
+Little Mount,Poonamallee Bypass,50,40
+Saidapet,Airport,30,24
+Saidapet,Meenambakkam,30,24
+Saidapet,OTA - Nanganallur Road,20,16
+Saidapet,Arignar Anna Alandur Metro,20,16
+Saidapet,Guindy,20,16
+Saidapet,Little Mount,10,8
+Saidapet,Nandanam,10,8
+Saidapet,Teynampet,20,16
+Saidapet,Thousand Lights,20,16
+Saidapet,AG-DMS,30,24
+Saidapet,LIC,30,24
+Saidapet,Government Estate,30,24
+Saidapet,Central Metro,30,24
+Saidapet,High Court,30,24
+Saidapet,Mannadi,30,24
+Saidapet,Washermanpet,40,32
+Saidapet,Thyagaraya College,40,32
+Saidapet,Tondiarpet,40,32
+Saidapet,New Washermenpet,40,32
+Saidapet,Tollgate,40,32
+Saidapet,Kaladipet,40,32
+Saidapet,Thiruvottriyur Theradi,40,32
+Saidapet,Thiruvottriyur,40,32
+Saidapet,Wimconagar,50,40
+Saidapet,Wimco Nagar Depot,50,40
+Saidapet,St Thomas Mount,30,24
+Saidapet,Ekkattuthangal,30,24
+Saidapet,Ashok Nagar,30,24
+Saidapet,Vadapalani,30,24
+Saidapet,Arumbakkam,30,24
+Saidapet,CMBT Metro,30,24
+Saidapet,Koyambedu,40,32
+Saidapet,Thirumangalam,40,32
+Saidapet,Anna Nagar Tower,40,32
+Saidapet,Anna Nagar East,40,32
+Saidapet,Shenoy Nagar,40,32
+Saidapet,Pachiappas College,40,32
+Saidapet,Kilpauk,40,32
+Saidapet,Nehru Park,30,24
+Saidapet,Egmore,30,24
+Saidapet,Porur Junction,40,32
+Saidapet,Porur Bypass,40,32
+Saidapet,Thelliyaragaram,40,32
+Saidapet,Iyappanthangal,40,32
+Saidapet,Kattupakkam,40,32
+Saidapet,Kumananchavadi,40,32
+Saidapet,Karayanchavadi,40,32
+Saidapet,Poonamallee Government Hospital,50,40
+Saidapet,Poonamallee Bus Stand,50,40
+Saidapet,Poonamallee Bypass,50,40
+Nandanam,Airport,30,24
+Nandanam,Meenambakkam,30,24
+Nandanam,OTA - Nanganallur Road,30,24
+Nandanam,Arignar Anna Alandur Metro,30,24
+Nandanam,Guindy,20,16
+Nandanam,Little Mount,20,16
+Nandanam,Saidapet,10,8
+Nandanam,Teynampet,10,8
+Nandanam,Thousand Lights,10,8
+Nandanam,AG-DMS,20,16
+Nandanam,LIC,20,16
+Nandanam,Government Estate,30,24
+Nandanam,Central Metro,30,24
+Nandanam,High Court,30,24
+Nandanam,Mannadi,30,24
+Nandanam,Washermanpet,30,24
+Nandanam,Thyagaraya College,40,32
+Nandanam,Tondiarpet,40,32
+Nandanam,New Washermenpet,40,32
+Nandanam,Tollgate,40,32
+Nandanam,Kaladipet,40,32
+Nandanam,Thiruvottriyur Theradi,40,32
+Nandanam,Thiruvottriyur,40,32
+Nandanam,Wimconagar,40,32
+Nandanam,Wimco Nagar Depot,40,32
+Nandanam,St Thomas Mount,30,24
+Nandanam,Ekkattuthangal,30,24
+Nandanam,Ashok Nagar,30,24
+Nandanam,Vadapalani,30,24
+Nandanam,Arumbakkam,40,32
+Nandanam,CMBT Metro,40,32
+Nandanam,Koyambedu,40,32
+Nandanam,Thirumangalam,40,32
+Nandanam,Anna Nagar Tower,40,32
+Nandanam,Anna Nagar East,40,32
+Nandanam,Shenoy Nagar,40,32
+Nandanam,Pachiappas College,30,24
+Nandanam,Kilpauk,30,24
+Nandanam,Nehru Park,30,24
+Nandanam,Egmore,30,24
+Nandanam,Porur Junction,40,32
+Nandanam,Porur Bypass,40,32
+Nandanam,Thelliyaragaram,40,32
+Nandanam,Iyappanthangal,40,32
+Nandanam,Kattupakkam,40,32
+Nandanam,Kumananchavadi,50,40
+Nandanam,Karayanchavadi,50,40
+Nandanam,Poonamallee Government Hospital,50,40
+Nandanam,Poonamallee Bus Stand,50,40
+Nandanam,Poonamallee Bypass,50,40
+Teynampet,Airport,30,24
+Teynampet,Meenambakkam,30,24
+Teynampet,OTA - Nanganallur Road,30,24
+Teynampet,Arignar Anna Alandur Metro,30,24
+Teynampet,Guindy,20,16
+Teynampet,Little Mount,20,16
+Teynampet,Saidapet,20,16
+Teynampet,Nandanam,10,8
+Teynampet,Thousand Lights,10,8
+Teynampet,AG-DMS,20,16
+Teynampet,LIC,20,16
+Teynampet,Government Estate,20,16
+Teynampet,Central Metro,30,24
+Teynampet,High Court,30,24
+Teynampet,Mannadi,30,24
+Teynampet,Washermanpet,30,24
+Teynampet,Thyagaraya College,30,24
+Teynampet,Tondiarpet,40,32
+Teynampet,New Washermenpet,40,32
+Teynampet,Tollgate,40,32
+Teynampet,Kaladipet,40,32
+Teynampet,Thiruvottriyur Theradi,40,32
+Teynampet,Thiruvottriyur,40,32
+Teynampet,Wimconagar,40,32
+Teynampet,Wimco Nagar Depot,40,32
+Teynampet,St Thomas Mount,30,24
+Teynampet,Ekkattuthangal,30,24
+Teynampet,Ashok Nagar,30,24
+Teynampet,Vadapalani,30,24
+Teynampet,Arumbakkam,40,32
+Teynampet,CMBT Metro,40,32
+Teynampet,Koyambedu,40,32
+Teynampet,Thirumangalam,40,32
+Teynampet,Anna Nagar Tower,40,32
+Teynampet,Anna Nagar East,40,32
+Teynampet,Shenoy Nagar,40,32
+Teynampet,Pachiappas College,30,24
+Teynampet,Kilpauk,30,24
+Teynampet,Nehru Park,30,24
+Teynampet,Egmore,30,24
+Teynampet,Porur Junction,40,32
+Teynampet,Porur Bypass,40,32
+Teynampet,Thelliyaragaram,40,32
+Teynampet,Iyappanthangal,40,32
+Teynampet,Kattupakkam,50,40
+Teynampet,Kumananchavadi,50,40
+Teynampet,Karayanchavadi,50,40
+Teynampet,Poonamallee Government Hospital,50,40
+Teynampet,Poonamallee Bus Stand,50,40
+Teynampet,Poonamallee Bypass,50,40
+Thousand Lights,Airport,40,32
+Thousand Lights,Meenambakkam,30,24
+Thousand Lights,OTA - Nanganallur Road,30,24
+Thousand Lights,Arignar Anna Alandur Metro,30,24
+Thousand Lights,Guindy,30,24
+Thousand Lights,Little Mount,20,16
+Thousand Lights,Saidapet,20,16
+Thousand Lights,Nandanam,10,8
+Thousand Lights,Teynampet,10,8
+Thousand Lights,AG-DMS,10,8
+Thousand Lights,LIC,20,16
+Thousand Lights,Government Estate,20,16
+Thousand Lights,Central Metro,30,24
+Thousand Lights,High Court,30,24
+Thousand Lights,Mannadi,30,24
+Thousand Lights,Washermanpet,30,24
+Thousand Lights,Thyagaraya College,30,24
+Thousand Lights,Tondiarpet,30,24
+Thousand Lights,New Washermenpet,40,32
+Thousand Lights,Tollgate,40,32
+Thousand Lights,Kaladipet,40,32
+Thousand Lights,Thiruvottriyur Theradi,40,32
+Thousand Lights,Thiruvottriyur,40,32
+Thousand Lights,Wimconagar,40,32
+Thousand Lights,Wimco Nagar Depot,40,32
+Thousand Lights,St Thomas Mount,30,24
+Thousand Lights,Ekkattuthangal,30,24
+Thousand Lights,Ashok Nagar,30,24
+Thousand Lights,Vadapalani,40,32
+Thousand Lights,Arumbakkam,40,32
+Thousand Lights,CMBT Metro,40,32
+Thousand Lights,Koyambedu,40,32
+Thousand Lights,Thirumangalam,40,32
+Thousand Lights,Anna Nagar Tower,40,32
+Thousand Lights,Anna Nagar East,40,32
+Thousand Lights,Shenoy Nagar,30,24
+Thousand Lights,Pachiappas College,30,24
+Thousand Lights,Kilpauk,30,24
+Thousand Lights,Nehru Park,30,24
+Thousand Lights,Egmore,30,24
+Thousand Lights,Porur Junction,40,32
+Thousand Lights,Porur Bypass,40,32
+Thousand Lights,Thelliyaragaram,40,32
+Thousand Lights,Iyappanthangal,50,40
+Thousand Lights,Kattupakkam,50,40
+Thousand Lights,Kumananchavadi,50,40
+Thousand Lights,Karayanchavadi,50,40
+Thousand Lights,Poonamallee Government Hospital,50,40
+Thousand Lights,Poonamallee Bus Stand,50,40
+Thousand Lights,Poonamallee Bypass,50,40
+AG-DMS,Airport,40,32
+AG-DMS,Meenambakkam,40,32
+AG-DMS,OTA - Nanganallur Road,30,24
+AG-DMS,Arignar Anna Alandur Metro,30,24
+AG-DMS,Guindy,30,24
+AG-DMS,Little Mount,30,24
+AG-DMS,Saidapet,30,24
+AG-DMS,Nandanam,20,16
+AG-DMS,Teynampet,20,16
+AG-DMS,Thousand Lights,10,8
+AG-DMS,LIC,10,8
+AG-DMS,Government Estate,10,8
+AG-DMS,Central Metro,20,16
+AG-DMS,High Court,30,24
+AG-DMS,Mannadi,30,24
+AG-DMS,Washermanpet,30,24
+AG-DMS,Thyagaraya College,30,24
+AG-DMS,Tondiarpet,30,24
+AG-DMS,New Washermenpet,30,24
+AG-DMS,Tollgate,40,32
+AG-DMS,Kaladipet,40,32
+AG-DMS,Thiruvottriyur Theradi,40,32
+AG-DMS,Thiruvottriyur,40,32
+AG-DMS,Wimconagar,40,32
+AG-DMS,Wimco Nagar Depot,40,32
+AG-DMS,St Thomas Mount,30,24
+AG-DMS,Ekkattuthangal,30,24
+AG-DMS,Ashok Nagar,40,32
+AG-DMS,Vadapalani,40,32
+AG-DMS,Arumbakkam,40,32
+AG-DMS,CMBT Metro,40,32
+AG-DMS,Koyambedu,40,32
+AG-DMS,Thirumangalam,40,32
+AG-DMS,Anna Nagar Tower,30,24
+AG-DMS,Anna Nagar East,30,24
+AG-DMS,Shenoy Nagar,30,24
+AG-DMS,Pachiappas College,30,24
+AG-DMS,Kilpauk,30,24
+AG-DMS,Nehru Park,30,24
+AG-DMS,Egmore,30,24
+AG-DMS,Porur Junction,40,32
+AG-DMS,Porur Bypass,50,40
+AG-DMS,Thelliyaragaram,50,40
+AG-DMS,Iyappanthangal,50,40
+AG-DMS,Kattupakkam,50,40
+AG-DMS,Kumananchavadi,50,40
+AG-DMS,Karayanchavadi,50,40
+AG-DMS,Poonamallee Government Hospital,50,40
+AG-DMS,Poonamallee Bus Stand,50,40
+AG-DMS,Poonamallee Bypass,50,40
+LIC,Airport,40,32
+LIC,Meenambakkam,40,32
+LIC,OTA - Nanganallur Road,30,24
+LIC,Arignar Anna Alandur Metro,30,24
+LIC,Guindy,30,24
+LIC,Little Mount,30,24
+LIC,Saidapet,30,24
+LIC,Nandanam,20,16
+LIC,Teynampet,20,16
+LIC,Thousand Lights,20,16
+LIC,AG-DMS,10,8
+LIC,Government Estate,10,8
+LIC,Central Metro,20,16
+LIC,High Court,20,16
+LIC,Mannadi,30,24
+LIC,Washermanpet,30,24
+LIC,Thyagaraya College,30,24
+LIC,Tondiarpet,30,24
+LIC,New Washermenpet,30,24
+LIC,Tollgate,30,24
+LIC,Kaladipet,30,24
+LIC,Thiruvottriyur Theradi,40,32
+LIC,Thiruvottriyur,40,32
+LIC,Wimconagar,40,32
+LIC,Wimco Nagar Depot,40,32
+LIC,St Thomas Mount,30,24
+LIC,Ekkattuthangal,30,24
+LIC,Ashok Nagar,40,32
+LIC,Vadapalani,40,32
+LIC,Arumbakkam,40,32
+LIC,CMBT Metro,40,32
+LIC,Koyambedu,40,32
+LIC,Thirumangalam,30,24
+LIC,Anna Nagar Tower,30,24
+LIC,Anna Nagar East,30,24
+LIC,Shenoy Nagar,30,24
+LIC,Pachiappas College,30,24
+LIC,Kilpauk,30,24
+LIC,Nehru Park,30,24
+LIC,Egmore,20,16
+LIC,Porur Junction,50,40
+LIC,Porur Bypass,50,40
+LIC,Thelliyaragaram,50,40
+LIC,Iyappanthangal,50,40
+LIC,Kattupakkam,50,40
+LIC,Kumananchavadi,50,40
+LIC,Karayanchavadi,50,40
+LIC,Poonamallee Government Hospital,50,40
+LIC,Poonamallee Bus Stand,50,40
+LIC,Poonamallee Bypass,50,40
+Government Estate,Airport,40,32
+Government Estate,Meenambakkam,40,32
+Government Estate,OTA - Nanganallur Road,40,32
+Government Estate,Arignar Anna Alandur Metro,30,24
+Government Estate,Guindy,30,24
+Government Estate,Little Mount,30,24
+Government Estate,Saidapet,30,24
+Government Estate,Nandanam,30,24
+Government Estate,Teynampet,20,16
+Government Estate,Thousand Lights,20,16
+Government Estate,AG-DMS,10,8
+Government Estate,LIC,10,8
+Government Estate,Central Metro,10,8
+Government Estate,High Court,20,16
+Government Estate,Mannadi,20,16
+Government Estate,Washermanpet,30,24
+Government Estate,Thyagaraya College,30,24
+Government Estate,Tondiarpet,30,24
+Government Estate,New Washermenpet,30,24
+Government Estate,Tollgate,30,24
+Government Estate,Kaladipet,30,24
+Government Estate,Thiruvottriyur Theradi,40,32
+Government Estate,Thiruvottriyur,40,32
+Government Estate,Wimconagar,40,32
+Government Estate,Wimco Nagar Depot,40,32
+Government Estate,St Thomas Mount,40,32
+Government Estate,Ekkattuthangal,40,32
+Government Estate,Ashok Nagar,40,32
+Government Estate,Vadapalani,40,32
+Government Estate,Arumbakkam,40,32
+Government Estate,CMBT Metro,40,32
+Government Estate,Koyambedu,40,32
+Government Estate,Thirumangalam,30,24
+Government Estate,Anna Nagar Tower,30,24
+Government Estate,Anna Nagar East,30,24
+Government Estate,Shenoy Nagar,30,24
+Government Estate,Pachiappas College,30,24
+Government Estate,Kilpauk,30,24
+Government Estate,Nehru Park,20,16
+Government Estate,Egmore,20,16
+Government Estate,Porur Junction,50,40
+Government Estate,Porur Bypass,50,40
+Government Estate,Thelliyaragaram,50,40
+Government Estate,Iyappanthangal,50,40
+Government Estate,Kattupakkam,50,40
+Government Estate,Kumananchavadi,50,40
+Government Estate,Karayanchavadi,50,40
+Government Estate,Poonamallee Government Hospital,50,40
+Government Estate,Poonamallee Bus Stand,50,40
+Government Estate,Poonamallee Bypass,50,40
+Central Metro,Airport,40,32
+Central Metro,Meenambakkam,40,32
+Central Metro,OTA - Nanganallur Road,40,32
+Central Metro,Arignar Anna Alandur Metro,40,32
+Central Metro,Guindy,30,24
+Central Metro,Little Mount,30,24
+Central Metro,Saidapet,30,24
+Central Metro,Nandanam,30,24
+Central Metro,Teynampet,30,24
+Central Metro,Thousand Lights,30,24
+Central Metro,AG-DMS,20,16
+Central Metro,LIC,20,16
+Central Metro,Government Estate,10,8
+Central Metro,High Court,10,8
+Central Metro,Mannadi,20,16
+Central Metro,Washermanpet,20,16
+Central Metro,Thyagaraya College,30,24
+Central Metro,Tondiarpet,30,24
+Central Metro,New Washermenpet,30,24
+Central Metro,Tollgate,30,24
+Central Metro,Kaladipet,30,24
+Central Metro,Thiruvottriyur Theradi,30,24
+Central Metro,Thiruvottriyur,30,24
+Central Metro,Wimconagar,40,32
+Central Metro,Wimco Nagar Depot,40,32
+Central Metro,St Thomas Mount,40,32
+Central Metro,Ekkattuthangal,40,32
+Central Metro,Ashok Nagar,40,32
+Central Metro,Vadapalani,40,32
+Central Metro,Arumbakkam,40,32
+Central Metro,CMBT Metro,30,24
+Central Metro,Koyambedu,30,24
+Central Metro,Thirumangalam,30,24
+Central Metro,Anna Nagar Tower,30,24
+Central Metro,Anna Nagar East,30,24
+Central Metro,Shenoy Nagar,30,24
+Central Metro,Pachiappas College,20,16
+Central Metro,Kilpauk,20,16
+Central Metro,Nehru Park,20,16
+Central Metro,Egmore,10,8
+Central Metro,Porur Junction,40,32
+Central Metro,Porur Bypass,50,40
+Central Metro,Thelliyaragaram,50,40
+Central Metro,Iyappanthangal,50,40
+Central Metro,Kattupakkam,50,40
+Central Metro,Kumananchavadi,50,40
+Central Metro,Karayanchavadi,50,40
+Central Metro,Poonamallee Government Hospital,50,40
+Central Metro,Poonamallee Bus Stand,50,40
+Central Metro,Poonamallee Bypass,50,40
+High Court,Airport,40,32
+High Court,Meenambakkam,40,32
+High Court,OTA - Nanganallur Road,40,32
+High Court,Arignar Anna Alandur Metro,40,32
+High Court,Guindy,40,32
+High Court,Little Mount,30,24
+High Court,Saidapet,30,24
+High Court,Nandanam,30,24
+High Court,Teynampet,30,24
+High Court,Thousand Lights,30,24
+High Court,AG-DMS,30,24
+High Court,LIC,20,16
+High Court,Government Estate,20,16
+High Court,Central Metro,10,8
+High Court,Mannadi,10,8
+High Court,Washermanpet,20,16
+High Court,Thyagaraya College,20,16
+High Court,Tondiarpet,20,16
+High Court,New Washermenpet,30,24
+High Court,Tollgate,30,24
+High Court,Kaladipet,30,24
+High Court,Thiruvottriyur Theradi,30,24
+High Court,Thiruvottriyur,30,24
+High Court,Wimconagar,30,24
+High Court,Wimco Nagar Depot,30,24
+High Court,St Thomas Mount,40,32
+High Court,Ekkattuthangal,40,32
+High Court,Ashok Nagar,40,32
+High Court,Vadapalani,40,32
+High Court,Arumbakkam,40,32
+High Court,CMBT Metro,40,32
+High Court,Koyambedu,40,32
+High Court,Thirumangalam,30,24
+High Court,Anna Nagar Tower,30,24
+High Court,Anna Nagar East,30,24
+High Court,Shenoy Nagar,30,24
+High Court,Pachiappas College,30,24
+High Court,Kilpauk,20,16
+High Court,Nehru Park,20,16
+High Court,Egmore,20,16
+High Court,Porur Junction,50,40
+High Court,Porur Bypass,50,40
+High Court,Thelliyaragaram,50,40
+High Court,Iyappanthangal,50,40
+High Court,Kattupakkam,50,40
+High Court,Kumananchavadi,50,40
+High Court,Karayanchavadi,50,40
+High Court,Poonamallee Government Hospital,50,40
+High Court,Poonamallee Bus Stand,50,40
+High Court,Poonamallee Bypass,50,40
+Mannadi,Airport,40,32
+Mannadi,Meenambakkam,40,32
+Mannadi,OTA - Nanganallur Road,40,32
+Mannadi,Arignar Anna Alandur Metro,40,32
+Mannadi,Guindy,40,32
+Mannadi,Little Mount,40,32
+Mannadi,Saidapet,30,24
+Mannadi,Nandanam,30,24
+Mannadi,Teynampet,30,24
+Mannadi,Thousand Lights,30,24
+Mannadi,AG-DMS,30,24
+Mannadi,LIC,30,24
+Mannadi,Government Estate,20,16
+Mannadi,Central Metro,20,16
+Mannadi,High Court,10,8
+Mannadi,Washermanpet,10,8
+Mannadi,Thyagaraya College,20,16
+Mannadi,Tondiarpet,20,16
+Mannadi,New Washermenpet,20,16
+Mannadi,Tollgate,30,24
+Mannadi,Kaladipet,30,24
+Mannadi,Thiruvottriyur Theradi,30,24
+Mannadi,Thiruvottriyur,30,24
+Mannadi,Wimconagar,30,24
+Mannadi,Wimco Nagar Depot,30,24
+Mannadi,St Thomas Mount,40,32
+Mannadi,Ekkattuthangal,40,32
+Mannadi,Ashok Nagar,40,32
+Mannadi,Vadapalani,40,32
+Mannadi,Arumbakkam,40,32
+Mannadi,CMBT Metro,40,32
+Mannadi,Koyambedu,40,32
+Mannadi,Thirumangalam,30,24
+Mannadi,Anna Nagar Tower,30,24
+Mannadi,Anna Nagar East,30,24
+Mannadi,Shenoy Nagar,30,24
+Mannadi,Pachiappas College,30,24
+Mannadi,Kilpauk,30,24
+Mannadi,Nehru Park,20,16
+Mannadi,Egmore,20,16
+Mannadi,Porur Junction,50,40
+Mannadi,Porur Bypass,50,40
+Mannadi,Thelliyaragaram,50,40
+Mannadi,Iyappanthangal,50,40
+Mannadi,Kattupakkam,50,40
+Mannadi,Kumananchavadi,50,40
+Mannadi,Karayanchavadi,50,40
+Mannadi,Poonamallee Government Hospital,50,40
+Mannadi,Poonamallee Bus Stand,50,40
+Mannadi,Poonamallee Bypass,50,40
+Washermanpet,Airport,50,40
+Washermanpet,Meenambakkam,40,32
+Washermanpet,OTA - Nanganallur Road,40,32
+Washermanpet,Arignar Anna Alandur Metro,40,32
+Washermanpet,Guindy,40,32
+Washermanpet,Little Mount,40,32
+Washermanpet,Saidapet,40,32
+Washermanpet,Nandanam,30,24
+Washermanpet,Teynampet,30,24
+Washermanpet,Thousand Lights,30,24
+Washermanpet,AG-DMS,30,24
+Washermanpet,LIC,30,24
+Washermanpet,Government Estate,30,24
+Washermanpet,Central Metro,20,16
+Washermanpet,High Court,20,16
+Washermanpet,Mannadi,10,8
+Washermanpet,Thyagaraya College,10,8
+Washermanpet,Tondiarpet,10,8
+Washermanpet,New Washermenpet,20,16
+Washermanpet,Tollgate,20,16
+Washermanpet,Kaladipet,20,16
+Washermanpet,Thiruvottriyur Theradi,30,24
+Washermanpet,Thiruvottriyur,30,24
+Washermanpet,Wimconagar,30,24
+Washermanpet,Wimco Nagar Depot,30,24
+Washermanpet,St Thomas Mount,40,32
+Washermanpet,Ekkattuthangal,40,32
+Washermanpet,Ashok Nagar,40,32
+Washermanpet,Vadapalani,40,32
+Washermanpet,Arumbakkam,40,32
+Washermanpet,CMBT Metro,40,32
+Washermanpet,Koyambedu,40,32
+Washermanpet,Thirumangalam,40,32
+Washermanpet,Anna Nagar Tower,40,32
+Washermanpet,Anna Nagar East,30,24
+Washermanpet,Shenoy Nagar,30,24
+Washermanpet,Pachiappas College,30,24
+Washermanpet,Kilpauk,30,24
+Washermanpet,Nehru Park,30,24
+Washermanpet,Egmore,30,24
+Washermanpet,Porur Junction,50,40
+Washermanpet,Porur Bypass,50,40
+Washermanpet,Thelliyaragaram,50,40
+Washermanpet,Iyappanthangal,50,40
+Washermanpet,Kattupakkam,50,40
+Washermanpet,Kumananchavadi,50,40
+Washermanpet,Karayanchavadi,50,40
+Washermanpet,Poonamallee Government Hospital,50,40
+Washermanpet,Poonamallee Bus Stand,50,40
+Washermanpet,Poonamallee Bypass,50,40
+Thyagaraya College,Airport,50,40
+Thyagaraya College,Meenambakkam,50,40
+Thyagaraya College,OTA - Nanganallur Road,40,32
+Thyagaraya College,Arignar Anna Alandur Metro,40,32
+Thyagaraya College,Guindy,40,32
+Thyagaraya College,Little Mount,40,32
+Thyagaraya College,Saidapet,40,32
+Thyagaraya College,Nandanam,40,32
+Thyagaraya College,Teynampet,30,24
+Thyagaraya College,Thousand Lights,30,24
+Thyagaraya College,AG-DMS,30,24
+Thyagaraya College,LIC,30,24
+Thyagaraya College,Government Estate,30,24
+Thyagaraya College,Central Metro,30,24
+Thyagaraya College,High Court,20,16
+Thyagaraya College,Mannadi,20,16
+Thyagaraya College,Washermanpet,10,8
+Thyagaraya College,Tondiarpet,10,8
+Thyagaraya College,New Washermenpet,10,8
+Thyagaraya College,Tollgate,20,16
+Thyagaraya College,Kaladipet,20,16
+Thyagaraya College,Thiruvottriyur Theradi,20,16
+Thyagaraya College,Thiruvottriyur,30,24
+Thyagaraya College,Wimconagar,30,24
+Thyagaraya College,Wimco Nagar Depot,30,24
+Thyagaraya College,St Thomas Mount,40,32
+Thyagaraya College,Ekkattuthangal,40,32
+Thyagaraya College,Ashok Nagar,50,40
+Thyagaraya College,Vadapalani,40,32
+Thyagaraya College,Arumbakkam,40,32
+Thyagaraya College,CMBT Metro,40,32
+Thyagaraya College,Koyambedu,40,32
+Thyagaraya College,Thirumangalam,40,32
+Thyagaraya College,Anna Nagar Tower,40,32
+Thyagaraya College,Anna Nagar East,30,24
+Thyagaraya College,Shenoy Nagar,30,24
+Thyagaraya College,Pachiappas College,30,24
+Thyagaraya College,Kilpauk,30,24
+Thyagaraya College,Nehru Park,30,24
+Thyagaraya College,Egmore,30,24
+Thyagaraya College,Porur Junction,50,40
+Thyagaraya College,Porur Bypass,50,40
+Thyagaraya College,Thelliyaragaram,50,40
+Thyagaraya College,Iyappanthangal,50,40
+Thyagaraya College,Kattupakkam,50,40
+Thyagaraya College,Kumananchavadi,50,40
+Thyagaraya College,Karayanchavadi,50,40
+Thyagaraya College,Poonamallee Government Hospital,50,40
+Thyagaraya College,Poonamallee Bus Stand,50,40
+Thyagaraya College,Poonamallee Bypass,50,40
+Tondiarpet,Airport,50,40
+Tondiarpet,Meenambakkam,50,40
+Tondiarpet,OTA - Nanganallur Road,40,32
+Tondiarpet,Arignar Anna Alandur Metro,40,32
+Tondiarpet,Guindy,40,32
+Tondiarpet,Little Mount,40,32
+Tondiarpet,Saidapet,40,32
+Tondiarpet,Nandanam,40,32
+Tondiarpet,Teynampet,40,32
+Tondiarpet,Thousand Lights,30,24
+Tondiarpet,AG-DMS,30,24
+Tondiarpet,LIC,30,24
+Tondiarpet,Government Estate,30,24
+Tondiarpet,Central Metro,30,24
+Tondiarpet,High Court,20,16
+Tondiarpet,Mannadi,20,16
+Tondiarpet,Washermanpet,10,8
+Tondiarpet,Thyagaraya College,10,8
+Tondiarpet,New Washermenpet,10,8
+Tondiarpet,Tollgate,20,16
+Tondiarpet,Kaladipet,20,16
+Tondiarpet,Thiruvottriyur Theradi,20,16
+Tondiarpet,Thiruvottriyur,30,24
+Tondiarpet,Wimconagar,30,24
+Tondiarpet,Wimco Nagar Depot,30,24
+Tondiarpet,St Thomas Mount,40,32
+Tondiarpet,Ekkattuthangal,40,32
+Tondiarpet,Ashok Nagar,50,40
+Tondiarpet,Vadapalani,40,32
+Tondiarpet,Arumbakkam,40,32
+Tondiarpet,CMBT Metro,40,32
+Tondiarpet,Koyambedu,40,32
+Tondiarpet,Thirumangalam,40,32
+Tondiarpet,Anna Nagar Tower,40,32
+Tondiarpet,Anna Nagar East,40,32
+Tondiarpet,Shenoy Nagar,30,24
+Tondiarpet,Pachiappas College,30,24
+Tondiarpet,Kilpauk,30,24
+Tondiarpet,Nehru Park,30,24
+Tondiarpet,Egmore,30,24
+Tondiarpet,Porur Junction,50,40
+Tondiarpet,Porur Bypass,50,40
+Tondiarpet,Thelliyaragaram,50,40
+Tondiarpet,Iyappanthangal,50,40
+Tondiarpet,Kattupakkam,50,40
+Tondiarpet,Kumananchavadi,50,40
+Tondiarpet,Karayanchavadi,50,40
+Tondiarpet,Poonamallee Government Hospital,50,40
+Tondiarpet,Poonamallee Bus Stand,50,40
+Tondiarpet,Poonamallee Bypass,50,40
+New Washermenpet,Airport,50,40
+New Washermenpet,Meenambakkam,50,40
+New Washermenpet,OTA - Nanganallur Road,50,40
+New Washermenpet,Arignar Anna Alandur Metro,40,32
+New Washermenpet,Guindy,40,32
+New Washermenpet,Little Mount,40,32
+New Washermenpet,Saidapet,40,32
+New Washermenpet,Nandanam,40,32
+New Washermenpet,Teynampet,40,32
+New Washermenpet,Thousand Lights,40,32
+New Washermenpet,AG-DMS,30,24
+New Washermenpet,LIC,30,24
+New Washermenpet,Government Estate,30,24
+New Washermenpet,Central Metro,30,24
+New Washermenpet,High Court,30,24
+New Washermenpet,Mannadi,20,16
+New Washermenpet,Washermanpet,20,16
+New Washermenpet,Thyagaraya College,10,8
+New Washermenpet,Tondiarpet,10,8
+New Washermenpet,Tollgate,10,8
+New Washermenpet,Kaladipet,10,8
+New Washermenpet,Thiruvottriyur Theradi,20,16
+New Washermenpet,Thiruvottriyur,20,16
+New Washermenpet,Wimconagar,30,24
+New Washermenpet,Wimco Nagar Depot,30,24
+New Washermenpet,St Thomas Mount,50,40
+New Washermenpet,Ekkattuthangal,50,40
+New Washermenpet,Ashok Nagar,50,40
+New Washermenpet,Vadapalani,50,40
+New Washermenpet,Arumbakkam,40,32
+New Washermenpet,CMBT Metro,40,32
+New Washermenpet,Koyambedu,40,32
+New Washermenpet,Thirumangalam,40,32
+New Washermenpet,Anna Nagar Tower,40,32
+New Washermenpet,Anna Nagar East,40,32
+New Washermenpet,Shenoy Nagar,40,32
+New Washermenpet,Pachiappas College,30,24
+New Washermenpet,Kilpauk,30,24
+New Washermenpet,Nehru Park,30,24
+New Washermenpet,Egmore,30,24
+New Washermenpet,Porur Junction,50,40
+New Washermenpet,Porur Bypass,50,40
+New Washermenpet,Thelliyaragaram,50,40
+New Washermenpet,Iyappanthangal,50,40
+New Washermenpet,Kattupakkam,50,40
+New Washermenpet,Kumananchavadi,50,40
+New Washermenpet,Karayanchavadi,50,40
+New Washermenpet,Poonamallee Government Hospital,50,40
+New Washermenpet,Poonamallee Bus Stand,50,40
+New Washermenpet,Poonamallee Bypass,50,40
+Tollgate,Airport,50,40
+Tollgate,Meenambakkam,50,40
+Tollgate,OTA - Nanganallur Road,50,40
+Tollgate,Arignar Anna Alandur Metro,50,40
+Tollgate,Guindy,40,32
+Tollgate,Little Mount,40,32
+Tollgate,Saidapet,40,32
+Tollgate,Nandanam,40,32
+Tollgate,Teynampet,40,32
+Tollgate,Thousand Lights,40,32
+Tollgate,AG-DMS,40,32
+Tollgate,LIC,30,24
+Tollgate,Government Estate,30,24
+Tollgate,Central Metro,30,24
+Tollgate,High Court,30,24
+Tollgate,Mannadi,30,24
+Tollgate,Washermanpet,20,16
+Tollgate,Thyagaraya College,20,16
+Tollgate,Tondiarpet,20,16
+Tollgate,New Washermenpet,10,8
+Tollgate,Kaladipet,10,8
+Tollgate,Thiruvottriyur Theradi,10,8
+Tollgate,Thiruvottriyur,20,16
+Tollgate,Wimconagar,20,16
+Tollgate,Wimco Nagar Depot,20,16
+Tollgate,St Thomas Mount,50,40
+Tollgate,Ekkattuthangal,50,40
+Tollgate,Ashok Nagar,50,40
+Tollgate,Vadapalani,50,40
+Tollgate,Arumbakkam,50,40
+Tollgate,CMBT Metro,40,32
+Tollgate,Koyambedu,40,32
+Tollgate,Thirumangalam,40,32
+Tollgate,Anna Nagar Tower,40,32
+Tollgate,Anna Nagar East,40,32
+Tollgate,Shenoy Nagar,40,32
+Tollgate,Pachiappas College,40,32
+Tollgate,Kilpauk,30,24
+Tollgate,Nehru Park,30,24
+Tollgate,Egmore,30,24
+Tollgate,Porur Junction,50,40
+Tollgate,Porur Bypass,50,40
+Tollgate,Thelliyaragaram,50,40
+Tollgate,Iyappanthangal,50,40
+Tollgate,Kattupakkam,50,40
+Tollgate,Kumananchavadi,50,40
+Tollgate,Karayanchavadi,50,40
+Tollgate,Poonamallee Government Hospital,50,40
+Tollgate,Poonamallee Bus Stand,50,40
+Tollgate,Poonamallee Bypass,50,40
+Kaladipet,Airport,50,40
+Kaladipet,Meenambakkam,50,40
+Kaladipet,OTA - Nanganallur Road,50,40
+Kaladipet,Arignar Anna Alandur Metro,50,40
+Kaladipet,Guindy,40,32
+Kaladipet,Little Mount,40,32
+Kaladipet,Saidapet,40,32
+Kaladipet,Nandanam,40,32
+Kaladipet,Teynampet,40,32
+Kaladipet,Thousand Lights,40,32
+Kaladipet,AG-DMS,40,32
+Kaladipet,LIC,30,24
+Kaladipet,Government Estate,30,24
+Kaladipet,Central Metro,30,24
+Kaladipet,High Court,30,24
+Kaladipet,Mannadi,30,24
+Kaladipet,Washermanpet,20,16
+Kaladipet,Thyagaraya College,20,16
+Kaladipet,Tondiarpet,20,16
+Kaladipet,New Washermenpet,10,8
+Kaladipet,Tollgate,10,8
+Kaladipet,Thiruvottriyur Theradi,10,8
+Kaladipet,Thiruvottriyur,20,16
+Kaladipet,Wimconagar,20,16
+Kaladipet,Wimco Nagar Depot,20,16
+Kaladipet,St Thomas Mount,50,40
+Kaladipet,Ekkattuthangal,50,40
+Kaladipet,Ashok Nagar,50,40
+Kaladipet,Vadapalani,50,40
+Kaladipet,Arumbakkam,50,40
+Kaladipet,CMBT Metro,50,40
+Kaladipet,Koyambedu,40,32
+Kaladipet,Thirumangalam,40,32
+Kaladipet,Anna Nagar Tower,40,32
+Kaladipet,Anna Nagar East,40,32
+Kaladipet,Shenoy Nagar,40,32
+Kaladipet,Pachiappas College,40,32
+Kaladipet,Kilpauk,40,32
+Kaladipet,Nehru Park,30,24
+Kaladipet,Egmore,30,24
+Kaladipet,Porur Junction,50,40
+Kaladipet,Porur Bypass,50,40
+Kaladipet,Thelliyaragaram,50,40
+Kaladipet,Iyappanthangal,50,40
+Kaladipet,Kattupakkam,50,40
+Kaladipet,Kumananchavadi,50,40
+Kaladipet,Karayanchavadi,50,40
+Kaladipet,Poonamallee Government Hospital,50,40
+Kaladipet,Poonamallee Bus Stand,50,40
+Kaladipet,Poonamallee Bypass,50,40
+Thiruvottriyur Theradi,Airport,50,40
+Thiruvottriyur Theradi,Meenambakkam,50,40
+Thiruvottriyur Theradi,OTA - Nanganallur Road,50,40
+Thiruvottriyur Theradi,Arignar Anna Alandur Metro,50,40
+Thiruvottriyur Theradi,Guindy,50,40
+Thiruvottriyur Theradi,Little Mount,40,32
+Thiruvottriyur Theradi,Saidapet,40,32
+Thiruvottriyur Theradi,Nandanam,40,32
+Thiruvottriyur Theradi,Teynampet,40,32
+Thiruvottriyur Theradi,Thousand Lights,40,32
+Thiruvottriyur Theradi,AG-DMS,40,32
+Thiruvottriyur Theradi,LIC,40,32
+Thiruvottriyur Theradi,Government Estate,40,32
+Thiruvottriyur Theradi,Central Metro,30,24
+Thiruvottriyur Theradi,High Court,30,24
+Thiruvottriyur Theradi,Mannadi,30,24
+Thiruvottriyur Theradi,Washermanpet,30,24
+Thiruvottriyur Theradi,Thyagaraya College,20,16
+Thiruvottriyur Theradi,Tondiarpet,20,16
+Thiruvottriyur Theradi,New Washermenpet,20,16
+Thiruvottriyur Theradi,Tollgate,10,8
+Thiruvottriyur Theradi,Kaladipet,10,8
+Thiruvottriyur Theradi,Thiruvottriyur,10,8
+Thiruvottriyur Theradi,Wimconagar,20,16
+Thiruvottriyur Theradi,Wimco Nagar Depot,20,16
+Thiruvottriyur Theradi,St Thomas Mount,50,40
+Thiruvottriyur Theradi,Ekkattuthangal,50,40
+Thiruvottriyur Theradi,Ashok Nagar,50,40
+Thiruvottriyur Theradi,Vadapalani,50,40
+Thiruvottriyur Theradi,Arumbakkam,50,40
+Thiruvottriyur Theradi,CMBT Metro,50,40
+Thiruvottriyur Theradi,Koyambedu,40,32
+Thiruvottriyur Theradi,Thirumangalam,40,32
+Thiruvottriyur Theradi,Anna Nagar Tower,40,32
+Thiruvottriyur Theradi,Anna Nagar East,40,32
+Thiruvottriyur Theradi,Shenoy Nagar,40,32
+Thiruvottriyur Theradi,Pachiappas College,40,32
+Thiruvottriyur Theradi,Kilpauk,40,32
+Thiruvottriyur Theradi,Nehru Park,40,32
+Thiruvottriyur Theradi,Egmore,30,24
+Thiruvottriyur Theradi,Porur Junction,50,40
+Thiruvottriyur Theradi,Porur Bypass,50,40
+Thiruvottriyur Theradi,Thelliyaragaram,50,40
+Thiruvottriyur Theradi,Iyappanthangal,50,40
+Thiruvottriyur Theradi,Kattupakkam,50,40
+Thiruvottriyur Theradi,Kumananchavadi,50,40
+Thiruvottriyur Theradi,Karayanchavadi,50,40
+Thiruvottriyur Theradi,Poonamallee Government Hospital,50,40
+Thiruvottriyur Theradi,Poonamallee Bus Stand,50,40
+Thiruvottriyur Theradi,Poonamallee Bypass,50,40
+Thiruvottriyur,Airport,50,40
+Thiruvottriyur,Meenambakkam,50,40
+Thiruvottriyur,OTA - Nanganallur Road,50,40
+Thiruvottriyur,Arignar Anna Alandur Metro,50,40
+Thiruvottriyur,Guindy,50,40
+Thiruvottriyur,Little Mount,50,40
+Thiruvottriyur,Saidapet,40,32
+Thiruvottriyur,Nandanam,40,32
+Thiruvottriyur,Teynampet,40,32
+Thiruvottriyur,Thousand Lights,40,32
+Thiruvottriyur,AG-DMS,40,32
+Thiruvottriyur,LIC,40,32
+Thiruvottriyur,Government Estate,40,32
+Thiruvottriyur,Central Metro,30,24
+Thiruvottriyur,High Court,30,24
+Thiruvottriyur,Mannadi,30,24
+Thiruvottriyur,Washermanpet,30,24
+Thiruvottriyur,Thyagaraya College,30,24
+Thiruvottriyur,Tondiarpet,30,24
+Thiruvottriyur,New Washermenpet,20,16
+Thiruvottriyur,Tollgate,20,16
+Thiruvottriyur,Kaladipet,20,16
+Thiruvottriyur,Thiruvottriyur Theradi,10,8
+Thiruvottriyur,Wimconagar,10,8
+Thiruvottriyur,Wimco Nagar Depot,10,8
+Thiruvottriyur,St Thomas Mount,50,40
+Thiruvottriyur,Ekkattuthangal,50,40
+Thiruvottriyur,Ashok Nagar,50,40
+Thiruvottriyur,Vadapalani,50,40
+Thiruvottriyur,Arumbakkam,50,40
+Thiruvottriyur,CMBT Metro,50,40
+Thiruvottriyur,Koyambedu,50,40
+Thiruvottriyur,Thirumangalam,40,32
+Thiruvottriyur,Anna Nagar Tower,40,32
+Thiruvottriyur,Anna Nagar East,40,32
+Thiruvottriyur,Shenoy Nagar,40,32
+Thiruvottriyur,Pachiappas College,40,32
+Thiruvottriyur,Kilpauk,40,32
+Thiruvottriyur,Nehru Park,40,32
+Thiruvottriyur,Egmore,40,32
+Thiruvottriyur,Porur Junction,50,40
+Thiruvottriyur,Porur Bypass,50,40
+Thiruvottriyur,Thelliyaragaram,50,40
+Thiruvottriyur,Iyappanthangal,50,40
+Thiruvottriyur,Kattupakkam,50,40
+Thiruvottriyur,Kumananchavadi,50,40
+Thiruvottriyur,Karayanchavadi,50,40
+Thiruvottriyur,Poonamallee Government Hospital,50,40
+Thiruvottriyur,Poonamallee Bus Stand,50,40
+Thiruvottriyur,Poonamallee Bypass,50,40
+Wimconagar,Airport,50,40
+Wimconagar,Meenambakkam,50,40
+Wimconagar,OTA - Nanganallur Road,50,40
+Wimconagar,Arignar Anna Alandur Metro,50,40
+Wimconagar,Guindy,50,40
+Wimconagar,Little Mount,50,40
+Wimconagar,Saidapet,50,40
+Wimconagar,Nandanam,40,32
+Wimconagar,Teynampet,40,32
+Wimconagar,Thousand Lights,40,32
+Wimconagar,AG-DMS,40,32
+Wimconagar,LIC,40,32
+Wimconagar,Government Estate,40,32
+Wimconagar,Central Metro,40,32
+Wimconagar,High Court,30,24
+Wimconagar,Mannadi,30,24
+Wimconagar,Washermanpet,30,24
+Wimconagar,Thyagaraya College,30,24
+Wimconagar,Tondiarpet,30,24
+Wimconagar,New Washermenpet,30,24
+Wimconagar,Tollgate,20,16
+Wimconagar,Kaladipet,20,16
+Wimconagar,Thiruvottriyur Theradi,20,16
+Wimconagar,Thiruvottriyur,10,8
+Wimconagar,Wimco Nagar Depot,10,8
+Wimconagar,St Thomas Mount,50,40
+Wimconagar,Ekkattuthangal,50,40
+Wimconagar,Ashok Nagar,50,40
+Wimconagar,Vadapalani,50,40
+Wimconagar,Arumbakkam,50,40
+Wimconagar,CMBT Metro,50,40
+Wimconagar,Koyambedu,50,40
+Wimconagar,Thirumangalam,50,40
+Wimconagar,Anna Nagar Tower,40,32
+Wimconagar,Anna Nagar East,40,32
+Wimconagar,Shenoy Nagar,40,32
+Wimconagar,Pachiappas College,40,32
+Wimconagar,Kilpauk,40,32
+Wimconagar,Nehru Park,40,32
+Wimconagar,Egmore,40,32
+Wimconagar,Porur Junction,50,40
+Wimconagar,Porur Bypass,50,40
+Wimconagar,Thelliyaragaram,50,40
+Wimconagar,Iyappanthangal,50,40
+Wimconagar,Kattupakkam,50,40
+Wimconagar,Kumananchavadi,50,40
+Wimconagar,Karayanchavadi,50,40
+Wimconagar,Poonamallee Government Hospital,50,40
+Wimconagar,Poonamallee Bus Stand,50,40
+Wimconagar,Poonamallee Bypass,50,40
+Wimco Nagar Depot,Airport,50,40
+Wimco Nagar Depot,Meenambakkam,50,40
+Wimco Nagar Depot,OTA - Nanganallur Road,50,40
+Wimco Nagar Depot,Arignar Anna Alandur Metro,50,40
+Wimco Nagar Depot,Guindy,50,40
+Wimco Nagar Depot,Little Mount,50,40
+Wimco Nagar Depot,Saidapet,50,40
+Wimco Nagar Depot,Nandanam,40,32
+Wimco Nagar Depot,Teynampet,40,32
+Wimco Nagar Depot,Thousand Lights,40,32
+Wimco Nagar Depot,AG-DMS,40,32
+Wimco Nagar Depot,LIC,40,32
+Wimco Nagar Depot,Government Estate,40,32
+Wimco Nagar Depot,Central Metro,40,32
+Wimco Nagar Depot,High Court,30,24
+Wimco Nagar Depot,Mannadi,30,24
+Wimco Nagar Depot,Washermanpet,30,24
+Wimco Nagar Depot,Thyagaraya College,30,24
+Wimco Nagar Depot,Tondiarpet,30,24
+Wimco Nagar Depot,New Washermenpet,30,24
+Wimco Nagar Depot,Tollgate,20,16
+Wimco Nagar Depot,Kaladipet,20,16
+Wimco Nagar Depot,Thiruvottriyur Theradi,20,16
+Wimco Nagar Depot,Thiruvottriyur,10,8
+Wimco Nagar Depot,Wimconagar,10,8
+Wimco Nagar Depot,St Thomas Mount,50,40
+Wimco Nagar Depot,Ekkattuthangal,50,40
+Wimco Nagar Depot,Ashok Nagar,50,40
+Wimco Nagar Depot,Vadapalani,50,40
+Wimco Nagar Depot,Arumbakkam,50,40
+Wimco Nagar Depot,CMBT Metro,50,40
+Wimco Nagar Depot,Koyambedu,50,40
+Wimco Nagar Depot,Thirumangalam,50,40
+Wimco Nagar Depot,Anna Nagar Tower,50,40
+Wimco Nagar Depot,Anna Nagar East,40,32
+Wimco Nagar Depot,Shenoy Nagar,40,32
+Wimco Nagar Depot,Pachiappas College,40,32
+Wimco Nagar Depot,Kilpauk,40,32
+Wimco Nagar Depot,Nehru Park,40,32
+Wimco Nagar Depot,Egmore,40,32
+Wimco Nagar Depot,Porur Junction,50,40
+Wimco Nagar Depot,Porur Bypass,50,40
+Wimco Nagar Depot,Thelliyaragaram,50,40
+Wimco Nagar Depot,Iyappanthangal,50,40
+Wimco Nagar Depot,Kattupakkam,50,40
+Wimco Nagar Depot,Kumananchavadi,50,40
+Wimco Nagar Depot,Karayanchavadi,50,40
+Wimco Nagar Depot,Poonamallee Government Hospital,50,40
+Wimco Nagar Depot,Poonamallee Bus Stand,50,40
+Wimco Nagar Depot,Poonamallee Bypass,50,40
+St Thomas Mount,Airport,30,24
+St Thomas Mount,Meenambakkam,20,16
+St Thomas Mount,OTA - Nanganallur Road,20,16
+St Thomas Mount,Arignar Anna Alandur Metro,10,8
+St Thomas Mount,Guindy,20,16
+St Thomas Mount,Little Mount,20,16
+St Thomas Mount,Saidapet,30,24
+St Thomas Mount,Nandanam,30,24
+St Thomas Mount,Teynampet,30,24
+St Thomas Mount,Thousand Lights,30,24
+St Thomas Mount,AG-DMS,30,24
+St Thomas Mount,LIC,30,24
+St Thomas Mount,Government Estate,40,32
+St Thomas Mount,Central Metro,40,32
+St Thomas Mount,High Court,40,32
+St Thomas Mount,Mannadi,40,32
+St Thomas Mount,Washermanpet,40,32
+St Thomas Mount,Thyagaraya College,40,32
+St Thomas Mount,Tondiarpet,40,32
+St Thomas Mount,New Washermenpet,50,40
+St Thomas Mount,Tollgate,50,40
+St Thomas Mount,Kaladipet,50,40
+St Thomas Mount,Thiruvottriyur Theradi,50,40
+St Thomas Mount,Thiruvottriyur,50,40
+St Thomas Mount,Wimconagar,50,40
+St Thomas Mount,Wimco Nagar Depot,50,40
+St Thomas Mount,Ekkattuthangal,20,16
+St Thomas Mount,Ashok Nagar,20,16
+St Thomas Mount,Vadapalani,30,24
+St Thomas Mount,Arumbakkam,30,24
+St Thomas Mount,CMBT Metro,30,24
+St Thomas Mount,Koyambedu,30,24
+St Thomas Mount,Thirumangalam,40,32
+St Thomas Mount,Anna Nagar Tower,40,32
+St Thomas Mount,Anna Nagar East,40,32
+St Thomas Mount,Shenoy Nagar,40,32
+St Thomas Mount,Pachiappas College,40,32
+St Thomas Mount,Kilpauk,40,32
+St Thomas Mount,Nehru Park,40,32
+St Thomas Mount,Egmore,40,32
+St Thomas Mount,Porur Junction,40,32
+St Thomas Mount,Porur Bypass,40,32
+St Thomas Mount,Thelliyaragaram,40,32
+St Thomas Mount,Iyappanthangal,40,32
+St Thomas Mount,Kattupakkam,40,32
+St Thomas Mount,Kumananchavadi,40,32
+St Thomas Mount,Karayanchavadi,40,32
+St Thomas Mount,Poonamallee Government Hospital,40,32
+St Thomas Mount,Poonamallee Bus Stand,40,32
+St Thomas Mount,Poonamallee Bypass,50,40
+Ekkattuthangal,Airport,30,24
+Ekkattuthangal,Meenambakkam,20,16
+Ekkattuthangal,OTA - Nanganallur Road,20,16
+Ekkattuthangal,Arignar Anna Alandur Metro,10,8
+Ekkattuthangal,Guindy,20,16
+Ekkattuthangal,Little Mount,20,16
+Ekkattuthangal,Saidapet,30,24
+Ekkattuthangal,Nandanam,30,24
+Ekkattuthangal,Teynampet,30,24
+Ekkattuthangal,Thousand Lights,30,24
+Ekkattuthangal,AG-DMS,30,24
+Ekkattuthangal,LIC,30,24
+Ekkattuthangal,Government Estate,40,32
+Ekkattuthangal,Central Metro,40,32
+Ekkattuthangal,High Court,40,32
+Ekkattuthangal,Mannadi,40,32
+Ekkattuthangal,Washermanpet,40,32
+Ekkattuthangal,Thyagaraya College,40,32
+Ekkattuthangal,Tondiarpet,40,32
+Ekkattuthangal,New Washermenpet,50,40
+Ekkattuthangal,Tollgate,50,40
+Ekkattuthangal,Kaladipet,50,40
+Ekkattuthangal,Thiruvottriyur Theradi,50,40
+Ekkattuthangal,Thiruvottriyur,50,40
+Ekkattuthangal,Wimconagar,50,40
+Ekkattuthangal,Wimco Nagar Depot,50,40
+Ekkattuthangal,St Thomas Mount,20,16
+Ekkattuthangal,Ashok Nagar,20,16
+Ekkattuthangal,Vadapalani,20,16
+Ekkattuthangal,Arumbakkam,30,24
+Ekkattuthangal,CMBT Metro,30,24
+Ekkattuthangal,Koyambedu,30,24
+Ekkattuthangal,Thirumangalam,30,24
+Ekkattuthangal,Anna Nagar Tower,30,24
+Ekkattuthangal,Anna Nagar East,30,24
+Ekkattuthangal,Shenoy Nagar,40,32
+Ekkattuthangal,Pachiappas College,40,32
+Ekkattuthangal,Kilpauk,40,32
+Ekkattuthangal,Nehru Park,40,32
+Ekkattuthangal,Egmore,40,32
+Ekkattuthangal,Porur Junction,30,24
+Ekkattuthangal,Porur Bypass,30,24
+Ekkattuthangal,Thelliyaragaram,30,24
+Ekkattuthangal,Iyappanthangal,40,32
+Ekkattuthangal,Kattupakkam,40,32
+Ekkattuthangal,Kumananchavadi,40,32
+Ekkattuthangal,Karayanchavadi,40,32
+Ekkattuthangal,Poonamallee Government Hospital,40,32
+Ekkattuthangal,Poonamallee Bus Stand,40,32
+Ekkattuthangal,Poonamallee Bypass,40,32
+Ashok Nagar,Airport,30,24
+Ashok Nagar,Meenambakkam,30,24
+Ashok Nagar,OTA - Nanganallur Road,20,16
+Ashok Nagar,Arignar Anna Alandur Metro,20,16
+Ashok Nagar,Guindy,20,16
+Ashok Nagar,Little Mount,30,24
+Ashok Nagar,Saidapet,30,24
+Ashok Nagar,Nandanam,30,24
+Ashok Nagar,Teynampet,30,24
+Ashok Nagar,Thousand Lights,30,24
+Ashok Nagar,AG-DMS,40,32
+Ashok Nagar,LIC,40,32
+Ashok Nagar,Government Estate,40,32
+Ashok Nagar,Central Metro,40,32
+Ashok Nagar,High Court,40,32
+Ashok Nagar,Mannadi,40,32
+Ashok Nagar,Washermanpet,40,32
+Ashok Nagar,Thyagaraya College,50,40
+Ashok Nagar,Tondiarpet,50,40
+Ashok Nagar,New Washermenpet,50,40
+Ashok Nagar,Tollgate,50,40
+Ashok Nagar,Kaladipet,50,40
+Ashok Nagar,Thiruvottriyur Theradi,50,40
+Ashok Nagar,Thiruvottriyur,50,40
+Ashok Nagar,Wimconagar,50,40
+Ashok Nagar,Wimco Nagar Depot,50,40
+Ashok Nagar,St Thomas Mount,20,16
+Ashok Nagar,Ekkattuthangal,20,16
+Ashok Nagar,Vadapalani,10,8
+Ashok Nagar,Arumbakkam,20,16
+Ashok Nagar,CMBT Metro,20,16
+Ashok Nagar,Koyambedu,30,24
+Ashok Nagar,Thirumangalam,30,24
+Ashok Nagar,Anna Nagar Tower,30,24
+Ashok Nagar,Anna Nagar East,30,24
+Ashok Nagar,Shenoy Nagar,30,24
+Ashok Nagar,Pachiappas College,30,24
+Ashok Nagar,Kilpauk,40,32
+Ashok Nagar,Nehru Park,40,32
+Ashok Nagar,Egmore,40,32
+Ashok Nagar,Porur Junction,30,24
+Ashok Nagar,Porur Bypass,30,24
+Ashok Nagar,Thelliyaragaram,30,24
+Ashok Nagar,Iyappanthangal,30,24
+Ashok Nagar,Kattupakkam,30,24
+Ashok Nagar,Kumananchavadi,40,32
+Ashok Nagar,Karayanchavadi,40,32
+Ashok Nagar,Poonamallee Government Hospital,40,32
+Ashok Nagar,Poonamallee Bus Stand,40,32
+Ashok Nagar,Poonamallee Bypass,40,32
+Vadapalani,Airport,30,24
+Vadapalani,Meenambakkam,30,24
+Vadapalani,OTA - Nanganallur Road,30,24
+Vadapalani,Arignar Anna Alandur Metro,30,24
+Vadapalani,Guindy,30,24
+Vadapalani,Little Mount,30,24
+Vadapalani,Saidapet,30,24
+Vadapalani,Nandanam,30,24
+Vadapalani,Teynampet,30,24
+Vadapalani,Thousand Lights,40,32
+Vadapalani,AG-DMS,40,32
+Vadapalani,LIC,40,32
+Vadapalani,Government Estate,40,32
+Vadapalani,Central Metro,40,32
+Vadapalani,High Court,40,32
+Vadapalani,Mannadi,40,32
+Vadapalani,Washermanpet,40,32
+Vadapalani,Thyagaraya College,40,32
+Vadapalani,Tondiarpet,40,32
+Vadapalani,New Washermenpet,50,40
+Vadapalani,Tollgate,50,40
+Vadapalani,Kaladipet,50,40
+Vadapalani,Thiruvottriyur Theradi,50,40
+Vadapalani,Thiruvottriyur,50,40
+Vadapalani,Wimconagar,50,40
+Vadapalani,Wimco Nagar Depot,50,40
+Vadapalani,St Thomas Mount,30,24
+Vadapalani,Ekkattuthangal,20,16
+Vadapalani,Ashok Nagar,10,8
+Vadapalani,Arumbakkam,10,8
+Vadapalani,CMBT Metro,20,16
+Vadapalani,Koyambedu,20,16
+Vadapalani,Thirumangalam,30,24
+Vadapalani,Anna Nagar Tower,30,24
+Vadapalani,Anna Nagar East,30,24
+Vadapalani,Shenoy Nagar,30,24
+Vadapalani,Pachiappas College,30,24
+Vadapalani,Kilpauk,30,24
+Vadapalani,Nehru Park,30,24
+Vadapalani,Egmore,40,32
+Vadapalani,Porur Junction,30,24
+Vadapalani,Porur Bypass,30,24
+Vadapalani,Thelliyaragaram,30,24
+Vadapalani,Iyappanthangal,30,24
+Vadapalani,Kattupakkam,30,24
+Vadapalani,Kumananchavadi,30,24
+Vadapalani,Karayanchavadi,30,24
+Vadapalani,Poonamallee Government Hospital,40,32
+Vadapalani,Poonamallee Bus Stand,40,32
+Vadapalani,Poonamallee Bypass,40,32
+Arumbakkam,Airport,30,24
+Arumbakkam,Meenambakkam,30,24
+Arumbakkam,OTA - Nanganallur Road,30,24
+Arumbakkam,Arignar Anna Alandur Metro,30,24
+Arumbakkam,Guindy,30,24
+Arumbakkam,Little Mount,30,24
+Arumbakkam,Saidapet,30,24
+Arumbakkam,Nandanam,40,32
+Arumbakkam,Teynampet,40,32
+Arumbakkam,Thousand Lights,40,32
+Arumbakkam,AG-DMS,40,32
+Arumbakkam,LIC,40,32
+Arumbakkam,Government Estate,40,32
+Arumbakkam,Central Metro,40,32
+Arumbakkam,High Court,40,32
+Arumbakkam,Mannadi,40,32
+Arumbakkam,Washermanpet,40,32
+Arumbakkam,Thyagaraya College,40,32
+Arumbakkam,Tondiarpet,40,32
+Arumbakkam,New Washermenpet,40,32
+Arumbakkam,Tollgate,50,40
+Arumbakkam,Kaladipet,50,40
+Arumbakkam,Thiruvottriyur Theradi,50,40
+Arumbakkam,Thiruvottriyur,50,40
+Arumbakkam,Wimconagar,50,40
+Arumbakkam,Wimco Nagar Depot,50,40
+Arumbakkam,St Thomas Mount,30,24
+Arumbakkam,Ekkattuthangal,30,24
+Arumbakkam,Ashok Nagar,20,16
+Arumbakkam,Vadapalani,10,8
+Arumbakkam,CMBT Metro,10,8
+Arumbakkam,Koyambedu,20,16
+Arumbakkam,Thirumangalam,20,16
+Arumbakkam,Anna Nagar Tower,30,24
+Arumbakkam,Anna Nagar East,30,24
+Arumbakkam,Shenoy Nagar,30,24
+Arumbakkam,Pachiappas College,30,24
+Arumbakkam,Kilpauk,30,24
+Arumbakkam,Nehru Park,30,24
+Arumbakkam,Egmore,30,24
+Arumbakkam,Porur Junction,30,24
+Arumbakkam,Porur Bypass,30,24
+Arumbakkam,Thelliyaragaram,30,24
+Arumbakkam,Iyappanthangal,30,24
+Arumbakkam,Kattupakkam,30,24
+Arumbakkam,Kumananchavadi,30,24
+Arumbakkam,Karayanchavadi,40,32
+Arumbakkam,Poonamallee Government Hospital,40,32
+Arumbakkam,Poonamallee Bus Stand,40,32
+Arumbakkam,Poonamallee Bypass,40,32
+CMBT Metro,Airport,40,32
+CMBT Metro,Meenambakkam,30,24
+CMBT Metro,OTA - Nanganallur Road,30,24
+CMBT Metro,Arignar Anna Alandur Metro,30,24
+CMBT Metro,Guindy,30,24
+CMBT Metro,Little Mount,30,24
+CMBT Metro,Saidapet,30,24
+CMBT Metro,Nandanam,40,32
+CMBT Metro,Teynampet,40,32
+CMBT Metro,Thousand Lights,40,32
+CMBT Metro,AG-DMS,40,32
+CMBT Metro,LIC,40,32
+CMBT Metro,Government Estate,40,32
+CMBT Metro,Central Metro,30,24
+CMBT Metro,High Court,40,32
+CMBT Metro,Mannadi,40,32
+CMBT Metro,Washermanpet,40,32
+CMBT Metro,Thyagaraya College,40,32
+CMBT Metro,Tondiarpet,40,32
+CMBT Metro,New Washermenpet,40,32
+CMBT Metro,Tollgate,40,32
+CMBT Metro,Kaladipet,50,40
+CMBT Metro,Thiruvottriyur Theradi,50,40
+CMBT Metro,Thiruvottriyur,50,40
+CMBT Metro,Wimconagar,50,40
+CMBT Metro,Wimco Nagar Depot,50,40
+CMBT Metro,St Thomas Mount,30,24
+CMBT Metro,Ekkattuthangal,30,24
+CMBT Metro,Ashok Nagar,20,16
+CMBT Metro,Vadapalani,20,16
+CMBT Metro,Arumbakkam,10,8
+CMBT Metro,Koyambedu,10,8
+CMBT Metro,Thirumangalam,20,16
+CMBT Metro,Anna Nagar Tower,20,16
+CMBT Metro,Anna Nagar East,20,16
+CMBT Metro,Shenoy Nagar,30,24
+CMBT Metro,Pachiappas College,30,24
+CMBT Metro,Kilpauk,30,24
+CMBT Metro,Nehru Park,30,24
+CMBT Metro,Egmore,30,24
+CMBT Metro,Porur Junction,30,24
+CMBT Metro,Porur Bypass,30,24
+CMBT Metro,Thelliyaragaram,30,24
+CMBT Metro,Iyappanthangal,30,24
+CMBT Metro,Kattupakkam,40,32
+CMBT Metro,Kumananchavadi,40,32
+CMBT Metro,Karayanchavadi,40,32
+CMBT Metro,Poonamallee Government Hospital,40,32
+CMBT Metro,Poonamallee Bus Stand,40,32
+CMBT Metro,Poonamallee Bypass,40,32
+Koyambedu,Airport,40,32
+Koyambedu,Meenambakkam,40,32
+Koyambedu,OTA - Nanganallur Road,30,24
+Koyambedu,Arignar Anna Alandur Metro,30,24
+Koyambedu,Guindy,30,24
+Koyambedu,Little Mount,30,24
+Koyambedu,Saidapet,40,32
+Koyambedu,Nandanam,40,32
+Koyambedu,Teynampet,40,32
+Koyambedu,Thousand Lights,40,32
+Koyambedu,AG-DMS,40,32
+Koyambedu,LIC,40,32
+Koyambedu,Government Estate,40,32
+Koyambedu,Central Metro,30,24
+Koyambedu,High Court,40,32
+Koyambedu,Mannadi,40,32
+Koyambedu,Washermanpet,40,32
+Koyambedu,Thyagaraya College,40,32
+Koyambedu,Tondiarpet,40,32
+Koyambedu,New Washermenpet,40,32
+Koyambedu,Tollgate,40,32
+Koyambedu,Kaladipet,40,32
+Koyambedu,Thiruvottriyur Theradi,40,32
+Koyambedu,Thiruvottriyur,50,40
+Koyambedu,Wimconagar,50,40
+Koyambedu,Wimco Nagar Depot,50,40
+Koyambedu,St Thomas Mount,30,24
+Koyambedu,Ekkattuthangal,30,24
+Koyambedu,Ashok Nagar,30,24
+Koyambedu,Vadapalani,20,16
+Koyambedu,Arumbakkam,20,16
+Koyambedu,CMBT Metro,10,8
+Koyambedu,Thirumangalam,10,8
+Koyambedu,Anna Nagar Tower,20,16
+Koyambedu,Anna Nagar East,20,16
+Koyambedu,Shenoy Nagar,20,16
+Koyambedu,Pachiappas College,30,24
+Koyambedu,Kilpauk,30,24
+Koyambedu,Nehru Park,30,24
+Koyambedu,Egmore,30,24
+Koyambedu,Porur Junction,30,24
+Koyambedu,Porur Bypass,30,24
+Koyambedu,Thelliyaragaram,30,24
+Koyambedu,Iyappanthangal,40,32
+Koyambedu,Kattupakkam,40,32
+Koyambedu,Kumananchavadi,40,32
+Koyambedu,Karayanchavadi,40,32
+Koyambedu,Poonamallee Government Hospital,40,32
+Koyambedu,Poonamallee Bus Stand,40,32
+Koyambedu,Poonamallee Bypass,40,32
+Thirumangalam,Airport,40,32
+Thirumangalam,Meenambakkam,40,32
+Thirumangalam,OTA - Nanganallur Road,40,32
+Thirumangalam,Arignar Anna Alandur Metro,30,24
+Thirumangalam,Guindy,40,32
+Thirumangalam,Little Mount,40,32
+Thirumangalam,Saidapet,40,32
+Thirumangalam,Nandanam,40,32
+Thirumangalam,Teynampet,40,32
+Thirumangalam,Thousand Lights,40,32
+Thirumangalam,AG-DMS,40,32
+Thirumangalam,LIC,30,24
+Thirumangalam,Government Estate,30,24
+Thirumangalam,Central Metro,30,24
+Thirumangalam,High Court,30,24
+Thirumangalam,Mannadi,30,24
+Thirumangalam,Washermanpet,40,32
+Thirumangalam,Thyagaraya College,40,32
+Thirumangalam,Tondiarpet,40,32
+Thirumangalam,New Washermenpet,40,32
+Thirumangalam,Tollgate,40,32
+Thirumangalam,Kaladipet,40,32
+Thirumangalam,Thiruvottriyur Theradi,40,32
+Thirumangalam,Thiruvottriyur,40,32
+Thirumangalam,Wimconagar,50,40
+Thirumangalam,Wimco Nagar Depot,50,40
+Thirumangalam,St Thomas Mount,40,32
+Thirumangalam,Ekkattuthangal,30,24
+Thirumangalam,Ashok Nagar,30,24
+Thirumangalam,Vadapalani,30,24
+Thirumangalam,Arumbakkam,20,16
+Thirumangalam,CMBT Metro,20,16
+Thirumangalam,Koyambedu,10,8
+Thirumangalam,Anna Nagar Tower,10,8
+Thirumangalam,Anna Nagar East,10,8
+Thirumangalam,Shenoy Nagar,20,16
+Thirumangalam,Pachiappas College,20,16
+Thirumangalam,Kilpauk,30,24
+Thirumangalam,Nehru Park,30,24
+Thirumangalam,Egmore,30,24
+Thirumangalam,Porur Junction,30,24
+Thirumangalam,Porur Bypass,40,32
+Thirumangalam,Thelliyaragaram,40,32
+Thirumangalam,Iyappanthangal,40,32
+Thirumangalam,Kattupakkam,40,32
+Thirumangalam,Kumananchavadi,40,32
+Thirumangalam,Karayanchavadi,40,32
+Thirumangalam,Poonamallee Government Hospital,40,32
+Thirumangalam,Poonamallee Bus Stand,40,32
+Thirumangalam,Poonamallee Bypass,40,32
+Anna Nagar Tower,Airport,40,32
+Anna Nagar Tower,Meenambakkam,40,32
+Anna Nagar Tower,OTA - Nanganallur Road,40,32
+Anna Nagar Tower,Arignar Anna Alandur Metro,30,24
+Anna Nagar Tower,Guindy,40,32
+Anna Nagar Tower,Little Mount,40,32
+Anna Nagar Tower,Saidapet,40,32
+Anna Nagar Tower,Nandanam,40,32
+Anna Nagar Tower,Teynampet,40,32
+Anna Nagar Tower,Thousand Lights,40,32
+Anna Nagar Tower,AG-DMS,30,24
+Anna Nagar Tower,LIC,30,24
+Anna Nagar Tower,Government Estate,30,24
+Anna Nagar Tower,Central Metro,30,24
+Anna Nagar Tower,High Court,30,24
+Anna Nagar Tower,Mannadi,30,24
+Anna Nagar Tower,Washermanpet,40,32
+Anna Nagar Tower,Thyagaraya College,40,32
+Anna Nagar Tower,Tondiarpet,40,32
+Anna Nagar Tower,New Washermenpet,40,32
+Anna Nagar Tower,Tollgate,40,32
+Anna Nagar Tower,Kaladipet,40,32
+Anna Nagar Tower,Thiruvottriyur Theradi,40,32
+Anna Nagar Tower,Thiruvottriyur,40,32
+Anna Nagar Tower,Wimconagar,40,32
+Anna Nagar Tower,Wimco Nagar Depot,50,40
+Anna Nagar Tower,St Thomas Mount,40,32
+Anna Nagar Tower,Ekkattuthangal,30,24
+Anna Nagar Tower,Ashok Nagar,30,24
+Anna Nagar Tower,Vadapalani,30,24
+Anna Nagar Tower,Arumbakkam,30,24
+Anna Nagar Tower,CMBT Metro,20,16
+Anna Nagar Tower,Koyambedu,20,16
+Anna Nagar Tower,Thirumangalam,10,8
+Anna Nagar Tower,Anna Nagar East,10,8
+Anna Nagar Tower,Shenoy Nagar,20,16
+Anna Nagar Tower,Pachiappas College,20,16
+Anna Nagar Tower,Kilpauk,20,16
+Anna Nagar Tower,Nehru Park,30,24
+Anna Nagar Tower,Egmore,30,24
+Anna Nagar Tower,Porur Junction,40,32
+Anna Nagar Tower,Porur Bypass,40,32
+Anna Nagar Tower,Thelliyaragaram,40,32
+Anna Nagar Tower,Iyappanthangal,40,32
+Anna Nagar Tower,Kattupakkam,40,32
+Anna Nagar Tower,Kumananchavadi,40,32
+Anna Nagar Tower,Karayanchavadi,40,32
+Anna Nagar Tower,Poonamallee Government Hospital,40,32
+Anna Nagar Tower,Poonamallee Bus Stand,40,32
+Anna Nagar Tower,Poonamallee Bypass,50,40
+Anna Nagar East,Airport,40,32
+Anna Nagar East,Meenambakkam,40,32
+Anna Nagar East,OTA - Nanganallur Road,40,32
+Anna Nagar East,Arignar Anna Alandur Metro,40,32
+Anna Nagar East,Guindy,40,32
+Anna Nagar East,Little Mount,40,32
+Anna Nagar East,Saidapet,40,32
+Anna Nagar East,Nandanam,40,32
+Anna Nagar East,Teynampet,40,32
+Anna Nagar East,Thousand Lights,40,32
+Anna Nagar East,AG-DMS,30,24
+Anna Nagar East,LIC,30,24
+Anna Nagar East,Government Estate,30,24
+Anna Nagar East,Central Metro,30,24
+Anna Nagar East,High Court,30,24
+Anna Nagar East,Mannadi,30,24
+Anna Nagar East,Washermanpet,30,24
+Anna Nagar East,Thyagaraya College,30,24
+Anna Nagar East,Tondiarpet,40,32
+Anna Nagar East,New Washermenpet,40,32
+Anna Nagar East,Tollgate,40,32
+Anna Nagar East,Kaladipet,40,32
+Anna Nagar East,Thiruvottriyur Theradi,40,32
+Anna Nagar East,Thiruvottriyur,40,32
+Anna Nagar East,Wimconagar,40,32
+Anna Nagar East,Wimco Nagar Depot,40,32
+Anna Nagar East,St Thomas Mount,40,32
+Anna Nagar East,Ekkattuthangal,30,24
+Anna Nagar East,Ashok Nagar,30,24
+Anna Nagar East,Vadapalani,30,24
+Anna Nagar East,Arumbakkam,30,24
+Anna Nagar East,CMBT Metro,20,16
+Anna Nagar East,Koyambedu,20,16
+Anna Nagar East,Thirumangalam,10,8
+Anna Nagar East,Anna Nagar Tower,10,8
+Anna Nagar East,Shenoy Nagar,10,8
+Anna Nagar East,Pachiappas College,20,16
+Anna Nagar East,Kilpauk,20,16
+Anna Nagar East,Nehru Park,20,16
+Anna Nagar East,Egmore,30,24
+Anna Nagar East,Porur Junction,40,32
+Anna Nagar East,Porur Bypass,40,32
+Anna Nagar East,Thelliyaragaram,40,32
+Anna Nagar East,Iyappanthangal,40,32
+Anna Nagar East,Kattupakkam,40,32
+Anna Nagar East,Kumananchavadi,40,32
+Anna Nagar East,Karayanchavadi,40,32
+Anna Nagar East,Poonamallee Government Hospital,40,32
+Anna Nagar East,Poonamallee Bus Stand,40,32
+Anna Nagar East,Poonamallee Bypass,50,40
+Shenoy Nagar,Airport,40,32
+Shenoy Nagar,Meenambakkam,40,32
+Shenoy Nagar,OTA - Nanganallur Road,40,32
+Shenoy Nagar,Arignar Anna Alandur Metro,40,32
+Shenoy Nagar,Guindy,40,32
+Shenoy Nagar,Little Mount,40,32
+Shenoy Nagar,Saidapet,40,32
+Shenoy Nagar,Nandanam,40,32
+Shenoy Nagar,Teynampet,40,32
+Shenoy Nagar,Thousand Lights,30,24
+Shenoy Nagar,AG-DMS,30,24
+Shenoy Nagar,LIC,30,24
+Shenoy Nagar,Government Estate,30,24
+Shenoy Nagar,Central Metro,30,24
+Shenoy Nagar,High Court,30,24
+Shenoy Nagar,Mannadi,30,24
+Shenoy Nagar,Washermanpet,30,24
+Shenoy Nagar,Thyagaraya College,30,24
+Shenoy Nagar,Tondiarpet,30,24
+Shenoy Nagar,New Washermenpet,40,32
+Shenoy Nagar,Tollgate,40,32
+Shenoy Nagar,Kaladipet,40,32
+Shenoy Nagar,Thiruvottriyur Theradi,40,32
+Shenoy Nagar,Thiruvottriyur,40,32
+Shenoy Nagar,Wimconagar,40,32
+Shenoy Nagar,Wimco Nagar Depot,40,32
+Shenoy Nagar,St Thomas Mount,40,32
+Shenoy Nagar,Ekkattuthangal,40,32
+Shenoy Nagar,Ashok Nagar,30,24
+Shenoy Nagar,Vadapalani,30,24
+Shenoy Nagar,Arumbakkam,30,24
+Shenoy Nagar,CMBT Metro,30,24
+Shenoy Nagar,Koyambedu,20,16
+Shenoy Nagar,Thirumangalam,20,16
+Shenoy Nagar,Anna Nagar Tower,20,16
+Shenoy Nagar,Anna Nagar East,10,8
+Shenoy Nagar,Pachiappas College,10,8
+Shenoy Nagar,Kilpauk,20,16
+Shenoy Nagar,Nehru Park,20,16
+Shenoy Nagar,Egmore,20,16
+Shenoy Nagar,Porur Junction,40,32
+Shenoy Nagar,Porur Bypass,40,32
+Shenoy Nagar,Thelliyaragaram,40,32
+Shenoy Nagar,Iyappanthangal,40,32
+Shenoy Nagar,Kattupakkam,40,32
+Shenoy Nagar,Kumananchavadi,40,32
+Shenoy Nagar,Karayanchavadi,40,32
+Shenoy Nagar,Poonamallee Government Hospital,50,40
+Shenoy Nagar,Poonamallee Bus Stand,50,40
+Shenoy Nagar,Poonamallee Bypass,50,40
+Pachiappas College,Airport,40,32
+Pachiappas College,Meenambakkam,40,32
+Pachiappas College,OTA - Nanganallur Road,40,32
+Pachiappas College,Arignar Anna Alandur Metro,40,32
+Pachiappas College,Guindy,40,32
+Pachiappas College,Little Mount,40,32
+Pachiappas College,Saidapet,40,32
+Pachiappas College,Nandanam,30,24
+Pachiappas College,Teynampet,30,24
+Pachiappas College,Thousand Lights,30,24
+Pachiappas College,AG-DMS,30,24
+Pachiappas College,LIC,30,24
+Pachiappas College,Government Estate,30,24
+Pachiappas College,Central Metro,20,16
+Pachiappas College,High Court,30,24
+Pachiappas College,Mannadi,30,24
+Pachiappas College,Washermanpet,30,24
+Pachiappas College,Thyagaraya College,30,24
+Pachiappas College,Tondiarpet,30,24
+Pachiappas College,New Washermenpet,30,24
+Pachiappas College,Tollgate,40,32
+Pachiappas College,Kaladipet,40,32
+Pachiappas College,Thiruvottriyur Theradi,40,32
+Pachiappas College,Thiruvottriyur,40,32
+Pachiappas College,Wimconagar,40,32
+Pachiappas College,Wimco Nagar Depot,40,32
+Pachiappas College,St Thomas Mount,40,32
+Pachiappas College,Ekkattuthangal,40,32
+Pachiappas College,Ashok Nagar,30,24
+Pachiappas College,Vadapalani,30,24
+Pachiappas College,Arumbakkam,30,24
+Pachiappas College,CMBT Metro,30,24
+Pachiappas College,Koyambedu,30,24
+Pachiappas College,Thirumangalam,20,16
+Pachiappas College,Anna Nagar Tower,20,16
+Pachiappas College,Anna Nagar East,20,16
+Pachiappas College,Shenoy Nagar,10,8
+Pachiappas College,Kilpauk,10,8
+Pachiappas College,Nehru Park,10,8
+Pachiappas College,Egmore,20,16
+Pachiappas College,Porur Junction,40,32
+Pachiappas College,Porur Bypass,40,32
+Pachiappas College,Thelliyaragaram,40,32
+Pachiappas College,Iyappanthangal,40,32
+Pachiappas College,Kattupakkam,40,32
+Pachiappas College,Kumananchavadi,40,32
+Pachiappas College,Karayanchavadi,50,40
+Pachiappas College,Poonamallee Government Hospital,50,40
+Pachiappas College,Poonamallee Bus Stand,50,40
+Pachiappas College,Poonamallee Bypass,50,40
+Kilpauk,Airport,50,40
+Kilpauk,Meenambakkam,40,32
+Kilpauk,OTA - Nanganallur Road,40,32
+Kilpauk,Arignar Anna Alandur Metro,40,32
+Kilpauk,Guindy,40,32
+Kilpauk,Little Mount,40,32
+Kilpauk,Saidapet,40,32
+Kilpauk,Nandanam,30,24
+Kilpauk,Teynampet,30,24
+Kilpauk,Thousand Lights,30,24
+Kilpauk,AG-DMS,30,24
+Kilpauk,LIC,30,24
+Kilpauk,Government Estate,30,24
+Kilpauk,Central Metro,20,16
+Kilpauk,High Court,20,16
+Kilpauk,Mannadi,30,24
+Kilpauk,Washermanpet,30,24
+Kilpauk,Thyagaraya College,30,24
+Kilpauk,Tondiarpet,30,24
+Kilpauk,New Washermenpet,30,24
+Kilpauk,Tollgate,30,24
+Kilpauk,Kaladipet,40,32
+Kilpauk,Thiruvottriyur Theradi,40,32
+Kilpauk,Thiruvottriyur,40,32
+Kilpauk,Wimconagar,40,32
+Kilpauk,Wimco Nagar Depot,40,32
+Kilpauk,St Thomas Mount,40,32
+Kilpauk,Ekkattuthangal,40,32
+Kilpauk,Ashok Nagar,40,32
+Kilpauk,Vadapalani,30,24
+Kilpauk,Arumbakkam,30,24
+Kilpauk,CMBT Metro,30,24
+Kilpauk,Koyambedu,30,24
+Kilpauk,Thirumangalam,30,24
+Kilpauk,Anna Nagar Tower,20,16
+Kilpauk,Anna Nagar East,20,16
+Kilpauk,Shenoy Nagar,20,16
+Kilpauk,Pachiappas College,10,8
+Kilpauk,Nehru Park,10,8
+Kilpauk,Egmore,10,8
+Kilpauk,Porur Junction,40,32
+Kilpauk,Porur Bypass,40,32
+Kilpauk,Thelliyaragaram,40,32
+Kilpauk,Iyappanthangal,40,32
+Kilpauk,Kattupakkam,40,32
+Kilpauk,Kumananchavadi,50,40
+Kilpauk,Karayanchavadi,50,40
+Kilpauk,Poonamallee Government Hospital,50,40
+Kilpauk,Poonamallee Bus Stand,50,40
+Kilpauk,Poonamallee Bypass,50,40
+Nehru Park,Airport,40,32
+Nehru Park,Meenambakkam,40,32
+Nehru Park,OTA - Nanganallur Road,40,32
+Nehru Park,Arignar Anna Alandur Metro,40,32
+Nehru Park,Guindy,40,32
+Nehru Park,Little Mount,40,32
+Nehru Park,Saidapet,30,24
+Nehru Park,Nandanam,30,24
+Nehru Park,Teynampet,30,24
+Nehru Park,Thousand Lights,30,24
+Nehru Park,AG-DMS,30,24
+Nehru Park,LIC,30,24
+Nehru Park,Government Estate,20,16
+Nehru Park,Central Metro,20,16
+Nehru Park,High Court,20,16
+Nehru Park,Mannadi,20,16
+Nehru Park,Washermanpet,30,24
+Nehru Park,Thyagaraya College,30,24
+Nehru Park,Tondiarpet,30,24
+Nehru Park,New Washermenpet,30,24
+Nehru Park,Tollgate,30,24
+Nehru Park,Kaladipet,30,24
+Nehru Park,Thiruvottriyur Theradi,40,32
+Nehru Park,Thiruvottriyur,40,32
+Nehru Park,Wimconagar,40,32
+Nehru Park,Wimco Nagar Depot,40,32
+Nehru Park,St Thomas Mount,40,32
+Nehru Park,Ekkattuthangal,40,32
+Nehru Park,Ashok Nagar,40,32
+Nehru Park,Vadapalani,30,24
+Nehru Park,Arumbakkam,30,24
+Nehru Park,CMBT Metro,30,24
+Nehru Park,Koyambedu,30,24
+Nehru Park,Thirumangalam,30,24
+Nehru Park,Anna Nagar Tower,30,24
+Nehru Park,Anna Nagar East,20,16
+Nehru Park,Shenoy Nagar,20,16
+Nehru Park,Pachiappas College,10,8
+Nehru Park,Kilpauk,10,8
+Nehru Park,Egmore,10,8
+Nehru Park,Porur Junction,40,32
+Nehru Park,Porur Bypass,40,32
+Nehru Park,Thelliyaragaram,40,32
+Nehru Park,Iyappanthangal,40,32
+Nehru Park,Kattupakkam,50,40
+Nehru Park,Kumananchavadi,50,40
+Nehru Park,Karayanchavadi,50,40
+Nehru Park,Poonamallee Government Hospital,50,40
+Nehru Park,Poonamallee Bus Stand,50,40
+Nehru Park,Poonamallee Bypass,50,40
+Egmore,Airport,40,32
+Egmore,Meenambakkam,40,32
+Egmore,OTA - Nanganallur Road,40,32
+Egmore,Arignar Anna Alandur Metro,40,32
+Egmore,Guindy,40,32
+Egmore,Little Mount,30,24
+Egmore,Saidapet,30,24
+Egmore,Nandanam,30,24
+Egmore,Teynampet,30,24
+Egmore,Thousand Lights,30,24
+Egmore,AG-DMS,30,24
+Egmore,LIC,20,16
+Egmore,Government Estate,20,16
+Egmore,Central Metro,10,8
+Egmore,High Court,20,16
+Egmore,Mannadi,20,16
+Egmore,Washermanpet,30,24
+Egmore,Thyagaraya College,30,24
+Egmore,Tondiarpet,30,24
+Egmore,New Washermenpet,30,24
+Egmore,Tollgate,30,24
+Egmore,Kaladipet,30,24
+Egmore,Thiruvottriyur Theradi,30,24
+Egmore,Thiruvottriyur,40,32
+Egmore,Wimconagar,40,32
+Egmore,Wimco Nagar Depot,40,32
+Egmore,St Thomas Mount,40,32
+Egmore,Ekkattuthangal,40,32
+Egmore,Ashok Nagar,40,32
+Egmore,Vadapalani,40,32
+Egmore,Arumbakkam,30,24
+Egmore,CMBT Metro,30,24
+Egmore,Koyambedu,30,24
+Egmore,Thirumangalam,30,24
+Egmore,Anna Nagar Tower,30,24
+Egmore,Anna Nagar East,30,24
+Egmore,Shenoy Nagar,20,16
+Egmore,Pachiappas College,20,16
+Egmore,Kilpauk,10,8
+Egmore,Nehru Park,10,8
+Egmore,Porur Junction,40,32
+Egmore,Porur Bypass,40,32
+Egmore,Thelliyaragaram,40,32
+Egmore,Iyappanthangal,50,40
+Egmore,Kattupakkam,50,40
+Egmore,Kumananchavadi,50,40
+Egmore,Karayanchavadi,50,40
+Egmore,Poonamallee Government Hospital,50,40
+Egmore,Poonamallee Bus Stand,50,40
+Egmore,Poonamallee Bypass,50,40
+Porur Junction,Airport,40,32
+Porur Junction,Meenambakkam,40,32
+Porur Junction,OTA - Nanganallur Road,40,32
+Porur Junction,Arignar Anna Alandur Metro,30,24
+Porur Junction,Guindy,40,32
+Porur Junction,Little Mount,40,32
+Porur Junction,Saidapet,40,32
+Porur Junction,Nandanam,40,32
+Porur Junction,Teynampet,40,32
+Porur Junction,Thousand Lights,40,32
+Porur Junction,AG-DMS,40,32
+Porur Junction,LIC,50,40
+Porur Junction,Government Estate,50,40
+Porur Junction,Central Metro,40,32
+Porur Junction,High Court,50,40
+Porur Junction,Mannadi,50,40
+Porur Junction,Washermanpet,50,40
+Porur Junction,Thyagaraya College,50,40
+Porur Junction,Tondiarpet,50,40
+Porur Junction,New Washermenpet,50,40
+Porur Junction,Tollgate,50,40
+Porur Junction,Kaladipet,50,40
+Porur Junction,Thiruvottriyur Theradi,50,40
+Porur Junction,Thiruvottriyur,50,40
+Porur Junction,Wimconagar,50,40
+Porur Junction,Wimco Nagar Depot,50,40
+Porur Junction,St Thomas Mount,40,32
+Porur Junction,Ekkattuthangal,30,24
+Porur Junction,Ashok Nagar,30,24
+Porur Junction,Vadapalani,30,24
+Porur Junction,Arumbakkam,30,24
+Porur Junction,CMBT Metro,30,24
+Porur Junction,Koyambedu,30,24
+Porur Junction,Thirumangalam,30,24
+Porur Junction,Anna Nagar Tower,40,32
+Porur Junction,Anna Nagar East,40,32
+Porur Junction,Shenoy Nagar,40,32
+Porur Junction,Pachiappas College,40,32
+Porur Junction,Kilpauk,40,32
+Porur Junction,Nehru Park,40,32
+Porur Junction,Egmore,40,32
+Porur Junction,Porur Bypass,10,8
+Porur Junction,Thelliyaragaram,10,8
+Porur Junction,Iyappanthangal,20,16
+Porur Junction,Kattupakkam,20,16
+Porur Junction,Kumananchavadi,20,16
+Porur Junction,Karayanchavadi,30,24
+Porur Junction,Poonamallee Government Hospital,30,24
+Porur Junction,Poonamallee Bus Stand,30,24
+Porur Junction,Poonamallee Bypass,30,24
+Porur Bypass,Airport,40,32
+Porur Bypass,Meenambakkam,40,32
+Porur Bypass,OTA - Nanganallur Road,40,32
+Porur Bypass,Arignar Anna Alandur Metro,40,32
+Porur Bypass,Guindy,40,32
+Porur Bypass,Little Mount,40,32
+Porur Bypass,Saidapet,40,32
+Porur Bypass,Nandanam,40,32
+Porur Bypass,Teynampet,40,32
+Porur Bypass,Thousand Lights,40,32
+Porur Bypass,AG-DMS,50,40
+Porur Bypass,LIC,50,40
+Porur Bypass,Government Estate,50,40
+Porur Bypass,Central Metro,50,40
+Porur Bypass,High Court,50,40
+Porur Bypass,Mannadi,50,40
+Porur Bypass,Washermanpet,50,40
+Porur Bypass,Thyagaraya College,50,40
+Porur Bypass,Tondiarpet,50,40
+Porur Bypass,New Washermenpet,50,40
+Porur Bypass,Tollgate,50,40
+Porur Bypass,Kaladipet,50,40
+Porur Bypass,Thiruvottriyur Theradi,50,40
+Porur Bypass,Thiruvottriyur,50,40
+Porur Bypass,Wimconagar,50,40
+Porur Bypass,Wimco Nagar Depot,50,40
+Porur Bypass,St Thomas Mount,40,32
+Porur Bypass,Ekkattuthangal,30,24
+Porur Bypass,Ashok Nagar,30,24
+Porur Bypass,Vadapalani,30,24
+Porur Bypass,Arumbakkam,30,24
+Porur Bypass,CMBT Metro,30,24
+Porur Bypass,Koyambedu,30,24
+Porur Bypass,Thirumangalam,40,32
+Porur Bypass,Anna Nagar Tower,40,32
+Porur Bypass,Anna Nagar East,40,32
+Porur Bypass,Shenoy Nagar,40,32
+Porur Bypass,Pachiappas College,40,32
+Porur Bypass,Kilpauk,40,32
+Porur Bypass,Nehru Park,40,32
+Porur Bypass,Egmore,40,32
+Porur Bypass,Porur Junction,10,8
+Porur Bypass,Thelliyaragaram,10,8
+Porur Bypass,Iyappanthangal,10,8
+Porur Bypass,Kattupakkam,20,16
+Porur Bypass,Kumananchavadi,20,16
+Porur Bypass,Karayanchavadi,20,16
+Porur Bypass,Poonamallee Government Hospital,30,24
+Porur Bypass,Poonamallee Bus Stand,30,24
+Porur Bypass,Poonamallee Bypass,30,24
+Thelliyaragaram,Airport,40,32
+Thelliyaragaram,Meenambakkam,40,32
+Thelliyaragaram,OTA - Nanganallur Road,40,32
+Thelliyaragaram,Arignar Anna Alandur Metro,40,32
+Thelliyaragaram,Guindy,40,32
+Thelliyaragaram,Little Mount,40,32
+Thelliyaragaram,Saidapet,40,32
+Thelliyaragaram,Nandanam,40,32
+Thelliyaragaram,Teynampet,40,32
+Thelliyaragaram,Thousand Lights,40,32
+Thelliyaragaram,AG-DMS,50,40
+Thelliyaragaram,LIC,50,40
+Thelliyaragaram,Government Estate,50,40
+Thelliyaragaram,Central Metro,50,40
+Thelliyaragaram,High Court,50,40
+Thelliyaragaram,Mannadi,50,40
+Thelliyaragaram,Washermanpet,50,40
+Thelliyaragaram,Thyagaraya College,50,40
+Thelliyaragaram,Tondiarpet,50,40
+Thelliyaragaram,New Washermenpet,50,40
+Thelliyaragaram,Tollgate,50,40
+Thelliyaragaram,Kaladipet,50,40
+Thelliyaragaram,Thiruvottriyur Theradi,50,40
+Thelliyaragaram,Thiruvottriyur,50,40
+Thelliyaragaram,Wimconagar,50,40
+Thelliyaragaram,Wimco Nagar Depot,50,40
+Thelliyaragaram,St Thomas Mount,40,32
+Thelliyaragaram,Ekkattuthangal,30,24
+Thelliyaragaram,Ashok Nagar,30,24
+Thelliyaragaram,Vadapalani,30,24
+Thelliyaragaram,Arumbakkam,30,24
+Thelliyaragaram,CMBT Metro,30,24
+Thelliyaragaram,Koyambedu,30,24
+Thelliyaragaram,Thirumangalam,40,32
+Thelliyaragaram,Anna Nagar Tower,40,32
+Thelliyaragaram,Anna Nagar East,40,32
+Thelliyaragaram,Shenoy Nagar,40,32
+Thelliyaragaram,Pachiappas College,40,32
+Thelliyaragaram,Kilpauk,40,32
+Thelliyaragaram,Nehru Park,40,32
+Thelliyaragaram,Egmore,40,32
+Thelliyaragaram,Porur Junction,10,8
+Thelliyaragaram,Porur Bypass,10,8
+Thelliyaragaram,Iyappanthangal,10,8
+Thelliyaragaram,Kattupakkam,10,8
+Thelliyaragaram,Kumananchavadi,20,16
+Thelliyaragaram,Karayanchavadi,20,16
+Thelliyaragaram,Poonamallee Government Hospital,20,16
+Thelliyaragaram,Poonamallee Bus Stand,30,24
+Thelliyaragaram,Poonamallee Bypass,30,24
+Iyappanthangal,Airport,40,32
+Iyappanthangal,Meenambakkam,40,32
+Iyappanthangal,OTA - Nanganallur Road,40,32
+Iyappanthangal,Arignar Anna Alandur Metro,40,32
+Iyappanthangal,Guindy,40,32
+Iyappanthangal,Little Mount,40,32
+Iyappanthangal,Saidapet,40,32
+Iyappanthangal,Nandanam,40,32
+Iyappanthangal,Teynampet,40,32
+Iyappanthangal,Thousand Lights,50,40
+Iyappanthangal,AG-DMS,50,40
+Iyappanthangal,LIC,50,40
+Iyappanthangal,Government Estate,50,40
+Iyappanthangal,Central Metro,50,40
+Iyappanthangal,High Court,50,40
+Iyappanthangal,Mannadi,50,40
+Iyappanthangal,Washermanpet,50,40
+Iyappanthangal,Thyagaraya College,50,40
+Iyappanthangal,Tondiarpet,50,40
+Iyappanthangal,New Washermenpet,50,40
+Iyappanthangal,Tollgate,50,40
+Iyappanthangal,Kaladipet,50,40
+Iyappanthangal,Thiruvottriyur Theradi,50,40
+Iyappanthangal,Thiruvottriyur,50,40
+Iyappanthangal,Wimconagar,50,40
+Iyappanthangal,Wimco Nagar Depot,50,40
+Iyappanthangal,St Thomas Mount,40,32
+Iyappanthangal,Ekkattuthangal,40,32
+Iyappanthangal,Ashok Nagar,30,24
+Iyappanthangal,Vadapalani,30,24
+Iyappanthangal,Arumbakkam,30,24
+Iyappanthangal,CMBT Metro,30,24
+Iyappanthangal,Koyambedu,40,32
+Iyappanthangal,Thirumangalam,40,32
+Iyappanthangal,Anna Nagar Tower,40,32
+Iyappanthangal,Anna Nagar East,40,32
+Iyappanthangal,Shenoy Nagar,40,32
+Iyappanthangal,Pachiappas College,40,32
+Iyappanthangal,Kilpauk,40,32
+Iyappanthangal,Nehru Park,40,32
+Iyappanthangal,Egmore,50,40
+Iyappanthangal,Porur Junction,20,16
+Iyappanthangal,Porur Bypass,10,8
+Iyappanthangal,Thelliyaragaram,10,8
+Iyappanthangal,Kattupakkam,10,8
+Iyappanthangal,Kumananchavadi,10,8
+Iyappanthangal,Karayanchavadi,20,16
+Iyappanthangal,Poonamallee Government Hospital,20,16
+Iyappanthangal,Poonamallee Bus Stand,20,16
+Iyappanthangal,Poonamallee Bypass,30,24
+Kattupakkam,Airport,40,32
+Kattupakkam,Meenambakkam,40,32
+Kattupakkam,OTA - Nanganallur Road,40,32
+Kattupakkam,Arignar Anna Alandur Metro,40,32
+Kattupakkam,Guindy,40,32
+Kattupakkam,Little Mount,40,32
+Kattupakkam,Saidapet,40,32
+Kattupakkam,Nandanam,40,32
+Kattupakkam,Teynampet,50,40
+Kattupakkam,Thousand Lights,50,40
+Kattupakkam,AG-DMS,50,40
+Kattupakkam,LIC,50,40
+Kattupakkam,Government Estate,50,40
+Kattupakkam,Central Metro,50,40
+Kattupakkam,High Court,50,40
+Kattupakkam,Mannadi,50,40
+Kattupakkam,Washermanpet,50,40
+Kattupakkam,Thyagaraya College,50,40
+Kattupakkam,Tondiarpet,50,40
+Kattupakkam,New Washermenpet,50,40
+Kattupakkam,Tollgate,50,40
+Kattupakkam,Kaladipet,50,40
+Kattupakkam,Thiruvottriyur Theradi,50,40
+Kattupakkam,Thiruvottriyur,50,40
+Kattupakkam,Wimconagar,50,40
+Kattupakkam,Wimco Nagar Depot,50,40
+Kattupakkam,St Thomas Mount,40,32
+Kattupakkam,Ekkattuthangal,40,32
+Kattupakkam,Ashok Nagar,30,24
+Kattupakkam,Vadapalani,30,24
+Kattupakkam,Arumbakkam,30,24
+Kattupakkam,CMBT Metro,40,32
+Kattupakkam,Koyambedu,40,32
+Kattupakkam,Thirumangalam,40,32
+Kattupakkam,Anna Nagar Tower,40,32
+Kattupakkam,Anna Nagar East,40,32
+Kattupakkam,Shenoy Nagar,40,32
+Kattupakkam,Pachiappas College,40,32
+Kattupakkam,Kilpauk,40,32
+Kattupakkam,Nehru Park,50,40
+Kattupakkam,Egmore,50,40
+Kattupakkam,Porur Junction,20,16
+Kattupakkam,Porur Bypass,20,16
+Kattupakkam,Thelliyaragaram,10,8
+Kattupakkam,Iyappanthangal,10,8
+Kattupakkam,Kumananchavadi,10,8
+Kattupakkam,Karayanchavadi,10,8
+Kattupakkam,Poonamallee Government Hospital,20,16
+Kattupakkam,Poonamallee Bus Stand,20,16
+Kattupakkam,Poonamallee Bypass,20,16
+Kumananchavadi,Airport,40,32
+Kumananchavadi,Meenambakkam,40,32
+Kumananchavadi,OTA - Nanganallur Road,40,32
+Kumananchavadi,Arignar Anna Alandur Metro,40,32
+Kumananchavadi,Guindy,40,32
+Kumananchavadi,Little Mount,40,32
+Kumananchavadi,Saidapet,40,32
+Kumananchavadi,Nandanam,50,40
+Kumananchavadi,Teynampet,50,40
+Kumananchavadi,Thousand Lights,50,40
+Kumananchavadi,AG-DMS,50,40
+Kumananchavadi,LIC,50,40
+Kumananchavadi,Government Estate,50,40
+Kumananchavadi,Central Metro,50,40
+Kumananchavadi,High Court,50,40
+Kumananchavadi,Mannadi,50,40
+Kumananchavadi,Washermanpet,50,40
+Kumananchavadi,Thyagaraya College,50,40
+Kumananchavadi,Tondiarpet,50,40
+Kumananchavadi,New Washermenpet,50,40
+Kumananchavadi,Tollgate,50,40
+Kumananchavadi,Kaladipet,50,40
+Kumananchavadi,Thiruvottriyur Theradi,50,40
+Kumananchavadi,Thiruvottriyur,50,40
+Kumananchavadi,Wimconagar,50,40
+Kumananchavadi,Wimco Nagar Depot,50,40
+Kumananchavadi,St Thomas Mount,40,32
+Kumananchavadi,Ekkattuthangal,40,32
+Kumananchavadi,Ashok Nagar,40,32
+Kumananchavadi,Vadapalani,30,24
+Kumananchavadi,Arumbakkam,30,24
+Kumananchavadi,CMBT Metro,40,32
+Kumananchavadi,Koyambedu,40,32
+Kumananchavadi,Thirumangalam,40,32
+Kumananchavadi,Anna Nagar Tower,40,32
+Kumananchavadi,Anna Nagar East,40,32
+Kumananchavadi,Shenoy Nagar,40,32
+Kumananchavadi,Pachiappas College,40,32
+Kumananchavadi,Kilpauk,50,40
+Kumananchavadi,Nehru Park,50,40
+Kumananchavadi,Egmore,50,40
+Kumananchavadi,Porur Junction,20,16
+Kumananchavadi,Porur Bypass,20,16
+Kumananchavadi,Thelliyaragaram,20,16
+Kumananchavadi,Iyappanthangal,10,8
+Kumananchavadi,Kattupakkam,10,8
+Kumananchavadi,Karayanchavadi,10,8
+Kumananchavadi,Poonamallee Government Hospital,10,8
+Kumananchavadi,Poonamallee Bus Stand,20,16
+Kumananchavadi,Poonamallee Bypass,20,16
+Karayanchavadi,Airport,50,40
+Karayanchavadi,Meenambakkam,40,32
+Karayanchavadi,OTA - Nanganallur Road,40,32
+Karayanchavadi,Arignar Anna Alandur Metro,40,32
+Karayanchavadi,Guindy,40,32
+Karayanchavadi,Little Mount,40,32
+Karayanchavadi,Saidapet,40,32
+Karayanchavadi,Nandanam,50,40
+Karayanchavadi,Teynampet,50,40
+Karayanchavadi,Thousand Lights,50,40
+Karayanchavadi,AG-DMS,50,40
+Karayanchavadi,LIC,50,40
+Karayanchavadi,Government Estate,50,40
+Karayanchavadi,Central Metro,50,40
+Karayanchavadi,High Court,50,40
+Karayanchavadi,Mannadi,50,40
+Karayanchavadi,Washermanpet,50,40
+Karayanchavadi,Thyagaraya College,50,40
+Karayanchavadi,Tondiarpet,50,40
+Karayanchavadi,New Washermenpet,50,40
+Karayanchavadi,Tollgate,50,40
+Karayanchavadi,Kaladipet,50,40
+Karayanchavadi,Thiruvottriyur Theradi,50,40
+Karayanchavadi,Thiruvottriyur,50,40
+Karayanchavadi,Wimconagar,50,40
+Karayanchavadi,Wimco Nagar Depot,50,40
+Karayanchavadi,St Thomas Mount,40,32
+Karayanchavadi,Ekkattuthangal,40,32
+Karayanchavadi,Ashok Nagar,40,32
+Karayanchavadi,Vadapalani,30,24
+Karayanchavadi,Arumbakkam,40,32
+Karayanchavadi,CMBT Metro,40,32
+Karayanchavadi,Koyambedu,40,32
+Karayanchavadi,Thirumangalam,40,32
+Karayanchavadi,Anna Nagar Tower,40,32
+Karayanchavadi,Anna Nagar East,40,32
+Karayanchavadi,Shenoy Nagar,40,32
+Karayanchavadi,Pachiappas College,50,40
+Karayanchavadi,Kilpauk,50,40
+Karayanchavadi,Nehru Park,50,40
+Karayanchavadi,Egmore,50,40
+Karayanchavadi,Porur Junction,30,24
+Karayanchavadi,Porur Bypass,20,16
+Karayanchavadi,Thelliyaragaram,20,16
+Karayanchavadi,Iyappanthangal,20,16
+Karayanchavadi,Kattupakkam,10,8
+Karayanchavadi,Kumananchavadi,10,8
+Karayanchavadi,Poonamallee Government Hospital,10,8
+Karayanchavadi,Poonamallee Bus Stand,10,8
+Karayanchavadi,Poonamallee Bypass,20,16
+Poonamallee Government Hospital,Airport,50,40
+Poonamallee Government Hospital,Meenambakkam,50,40
+Poonamallee Government Hospital,OTA - Nanganallur Road,40,32
+Poonamallee Government Hospital,Arignar Anna Alandur Metro,40,32
+Poonamallee Government Hospital,Guindy,40,32
+Poonamallee Government Hospital,Little Mount,40,32
+Poonamallee Government Hospital,Saidapet,50,40
+Poonamallee Government Hospital,Nandanam,50,40
+Poonamallee Government Hospital,Teynampet,50,40
+Poonamallee Government Hospital,Thousand Lights,50,40
+Poonamallee Government Hospital,AG-DMS,50,40
+Poonamallee Government Hospital,LIC,50,40
+Poonamallee Government Hospital,Government Estate,50,40
+Poonamallee Government Hospital,Central Metro,50,40
+Poonamallee Government Hospital,High Court,50,40
+Poonamallee Government Hospital,Mannadi,50,40
+Poonamallee Government Hospital,Washermanpet,50,40
+Poonamallee Government Hospital,Thyagaraya College,50,40
+Poonamallee Government Hospital,Tondiarpet,50,40
+Poonamallee Government Hospital,New Washermenpet,50,40
+Poonamallee Government Hospital,Tollgate,50,40
+Poonamallee Government Hospital,Kaladipet,50,40
+Poonamallee Government Hospital,Thiruvottriyur Theradi,50,40
+Poonamallee Government Hospital,Thiruvottriyur,50,40
+Poonamallee Government Hospital,Wimconagar,50,40
+Poonamallee Government Hospital,Wimco Nagar Depot,50,40
+Poonamallee Government Hospital,St Thomas Mount,40,32
+Poonamallee Government Hospital,Ekkattuthangal,40,32
+Poonamallee Government Hospital,Ashok Nagar,40,32
+Poonamallee Government Hospital,Vadapalani,40,32
+Poonamallee Government Hospital,Arumbakkam,40,32
+Poonamallee Government Hospital,CMBT Metro,40,32
+Poonamallee Government Hospital,Koyambedu,40,32
+Poonamallee Government Hospital,Thirumangalam,40,32
+Poonamallee Government Hospital,Anna Nagar Tower,40,32
+Poonamallee Government Hospital,Anna Nagar East,40,32
+Poonamallee Government Hospital,Shenoy Nagar,50,40
+Poonamallee Government Hospital,Pachiappas College,50,40
+Poonamallee Government Hospital,Kilpauk,50,40
+Poonamallee Government Hospital,Nehru Park,50,40
+Poonamallee Government Hospital,Egmore,50,40
+Poonamallee Government Hospital,Porur Junction,30,24
+Poonamallee Government Hospital,Porur Bypass,30,24
+Poonamallee Government Hospital,Thelliyaragaram,20,16
+Poonamallee Government Hospital,Iyappanthangal,20,16
+Poonamallee Government Hospital,Kattupakkam,20,16
+Poonamallee Government Hospital,Kumananchavadi,10,8
+Poonamallee Government Hospital,Karayanchavadi,10,8
+Poonamallee Government Hospital,Poonamallee Bus Stand,10,8
+Poonamallee Government Hospital,Poonamallee Bypass,20,16
+Poonamallee Bus Stand,Airport,50,40
+Poonamallee Bus Stand,Meenambakkam,50,40
+Poonamallee Bus Stand,OTA - Nanganallur Road,40,32
+Poonamallee Bus Stand,Arignar Anna Alandur Metro,40,32
+Poonamallee Bus Stand,Guindy,40,32
+Poonamallee Bus Stand,Little Mount,50,40
+Poonamallee Bus Stand,Saidapet,50,40
+Poonamallee Bus Stand,Nandanam,50,40
+Poonamallee Bus Stand,Teynampet,50,40
+Poonamallee Bus Stand,Thousand Lights,50,40
+Poonamallee Bus Stand,AG-DMS,50,40
+Poonamallee Bus Stand,LIC,50,40
+Poonamallee Bus Stand,Government Estate,50,40
+Poonamallee Bus Stand,Central Metro,50,40
+Poonamallee Bus Stand,High Court,50,40
+Poonamallee Bus Stand,Mannadi,50,40
+Poonamallee Bus Stand,Washermanpet,50,40
+Poonamallee Bus Stand,Thyagaraya College,50,40
+Poonamallee Bus Stand,Tondiarpet,50,40
+Poonamallee Bus Stand,New Washermenpet,50,40
+Poonamallee Bus Stand,Tollgate,50,40
+Poonamallee Bus Stand,Kaladipet,50,40
+Poonamallee Bus Stand,Thiruvottriyur Theradi,50,40
+Poonamallee Bus Stand,Thiruvottriyur,50,40
+Poonamallee Bus Stand,Wimconagar,50,40
+Poonamallee Bus Stand,Wimco Nagar Depot,50,40
+Poonamallee Bus Stand,St Thomas Mount,40,32
+Poonamallee Bus Stand,Ekkattuthangal,40,32
+Poonamallee Bus Stand,Ashok Nagar,40,32
+Poonamallee Bus Stand,Vadapalani,40,32
+Poonamallee Bus Stand,Arumbakkam,40,32
+Poonamallee Bus Stand,CMBT Metro,40,32
+Poonamallee Bus Stand,Koyambedu,40,32
+Poonamallee Bus Stand,Thirumangalam,40,32
+Poonamallee Bus Stand,Anna Nagar Tower,40,32
+Poonamallee Bus Stand,Anna Nagar East,40,32
+Poonamallee Bus Stand,Shenoy Nagar,50,40
+Poonamallee Bus Stand,Pachiappas College,50,40
+Poonamallee Bus Stand,Kilpauk,50,40
+Poonamallee Bus Stand,Nehru Park,50,40
+Poonamallee Bus Stand,Egmore,50,40
+Poonamallee Bus Stand,Porur Junction,30,24
+Poonamallee Bus Stand,Porur Bypass,30,24
+Poonamallee Bus Stand,Thelliyaragaram,30,24
+Poonamallee Bus Stand,Iyappanthangal,20,16
+Poonamallee Bus Stand,Kattupakkam,20,16
+Poonamallee Bus Stand,Kumananchavadi,20,16
+Poonamallee Bus Stand,Karayanchavadi,10,8
+Poonamallee Bus Stand,Poonamallee Government Hospital,10,8
+Poonamallee Bus Stand,Poonamallee Bypass,10,8
+Poonamallee Bypass,Airport,50,40
+Poonamallee Bypass,Meenambakkam,50,40
+Poonamallee Bypass,OTA - Nanganallur Road,50,40
+Poonamallee Bypass,Arignar Anna Alandur Metro,40,32
+Poonamallee Bypass,Guindy,50,40
+Poonamallee Bypass,Little Mount,50,40
+Poonamallee Bypass,Saidapet,50,40
+Poonamallee Bypass,Nandanam,50,40
+Poonamallee Bypass,Teynampet,50,40
+Poonamallee Bypass,Thousand Lights,50,40
+Poonamallee Bypass,AG-DMS,50,40
+Poonamallee Bypass,LIC,50,40
+Poonamallee Bypass,Government Estate,50,40
+Poonamallee Bypass,Central Metro,50,40
+Poonamallee Bypass,High Court,50,40
+Poonamallee Bypass,Mannadi,50,40
+Poonamallee Bypass,Washermanpet,50,40
+Poonamallee Bypass,Thyagaraya College,50,40
+Poonamallee Bypass,Tondiarpet,50,40
+Poonamallee Bypass,New Washermenpet,50,40
+Poonamallee Bypass,Tollgate,50,40
+Poonamallee Bypass,Kaladipet,50,40
+Poonamallee Bypass,Thiruvottriyur Theradi,50,40
+Poonamallee Bypass,Thiruvottriyur,50,40
+Poonamallee Bypass,Wimconagar,50,40
+Poonamallee Bypass,Wimco Nagar Depot,50,40
+Poonamallee Bypass,St Thomas Mount,50,40
+Poonamallee Bypass,Ekkattuthangal,40,32
+Poonamallee Bypass,Ashok Nagar,40,32
+Poonamallee Bypass,Vadapalani,40,32
+Poonamallee Bypass,Arumbakkam,40,32
+Poonamallee Bypass,CMBT Metro,40,32
+Poonamallee Bypass,Koyambedu,40,32
+Poonamallee Bypass,Thirumangalam,40,32
+Poonamallee Bypass,Anna Nagar Tower,50,40
+Poonamallee Bypass,Anna Nagar East,50,40
+Poonamallee Bypass,Shenoy Nagar,50,40
+Poonamallee Bypass,Pachiappas College,50,40
+Poonamallee Bypass,Kilpauk,50,40
+Poonamallee Bypass,Nehru Park,50,40
+Poonamallee Bypass,Egmore,50,40
+Poonamallee Bypass,Porur Junction,30,24
+Poonamallee Bypass,Porur Bypass,30,24
+Poonamallee Bypass,Thelliyaragaram,30,24
+Poonamallee Bypass,Iyappanthangal,30,24
+Poonamallee Bypass,Kattupakkam,20,16
+Poonamallee Bypass,Kumananchavadi,20,16
+Poonamallee Bypass,Karayanchavadi,20,16
+Poonamallee Bypass,Poonamallee Government Hospital,20,16
+Poonamallee Bypass,Poonamallee Bus Stand,10,8

@@ -1,0 +1,54 @@
+station_name,line_name,sequence,direction
+Airport,Blue Line,1,Both
+Meenambakkam,Blue Line,2,Both
+OTA - Nanganallur Road,Blue Line,3,Both
+Arignar Anna Alandur Metro,Blue Line,4,Both
+Guindy,Blue Line,5,Both
+Little Mount,Blue Line,6,Both
+Saidapet,Blue Line,7,Both
+Nandanam,Blue Line,8,Both
+Teynampet,Blue Line,9,Both
+AG-DMS,Blue Line,10,Both
+Thousand Lights,Blue Line,11,Both
+LIC,Blue Line,12,Both
+Government Estate,Blue Line,13,Both
+Central Metro,Blue Line,14,Both
+High Court,Blue Line,15,Both
+Mannadi,Blue Line,16,Both
+Washermanpet,Blue Line,17,Both
+Thyagaraya College,Blue Line,18,Both
+Tondiarpet,Blue Line,19,Both
+New Washermenpet,Blue Line,20,Both
+Tollgate,Blue Line,21,Both
+Kaladipet,Blue Line,22,Both
+Thiruvottriyur Theradi,Blue Line,23,Both
+Thiruvottriyur,Blue Line,24,Both
+Wimconagar,Blue Line,25,Both
+Central Metro,Green Line,1,Both
+Egmore,Green Line,2,Both
+Nehru Park,Green Line,3,Both
+Kilpauk,Green Line,4,Both
+Pachiappas College,Green Line,5,Both
+Shenoy Nagar,Green Line,6,Both
+Anna Nagar East,Green Line,7,Both
+Anna Nagar Tower,Green Line,8,Both
+Thirumangalam,Green Line,9,Both
+Koyambedu,Green Line,10,Both
+CMBT Metro,Green Line,11,Both
+Arumbakkam,Green Line,12,Both
+Vadapalani,Green Line,13,Both
+Ashok Nagar,Green Line,14,Both
+Ekkattuthangal,Green Line,15,Both
+Arignar Anna Alandur Metro,Green Line,16,Both
+St Thomas Mount,Green Line,17,Both
+Poonamallee Bypass,Yellow Line,1,Both
+Poonamallee Bus Stand,Yellow Line,2,Both
+Poonamallee Government Hospital,Yellow Line,3,Both
+Karayanchavadi,Yellow Line,4,Both
+Kumananchavadi,Yellow Line,5,Both
+Kattupakkam,Yellow Line,6,Both
+Iyappanthangal,Yellow Line,7,Both
+Thelliyaragaram,Yellow Line,8,Both
+Porur Bypass,Yellow Line,9,Both
+Porur Junction,Yellow Line,10,Both
+Vadapalani,Yellow Line,11,Both

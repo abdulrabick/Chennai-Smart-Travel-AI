@@ -1,0 +1,43 @@
+start,destination,transport_mode,distance_km,estimated_time_min,estimated_fare_inr,transfer_time_min
+Washermenpet,Egmore,Local Train,6.2,12,10,0
+Washermenpet,Egmore,MTC Bus,7.0,28,10,0
+Washermenpet,Egmore,Share Auto,6.8,22,30,0
+Washermenpet,Egmore,Rapido Bike Taxi,6.8,18,60,0
+Washermenpet,Egmore,Cab,6.8,20,180,0
+Washermenpet,Egmore,Pink Auto,6.8,22,50,0
+Washermenpet,Chennai Central,Local Train,5.5,11,10,0
+Washermenpet,Broadway,MTC Bus,3.5,15,10,0
+Washermenpet,Broadway,Share Auto,3.2,12,20,0
+Washermenpet,Broadway,Rapido Bike Taxi,3.2,10,40,0
+Washermenpet,Broadway,Cab,3.2,12,120,0
+Washermenpet,Broadway,Pink Auto,3.2,14,40,0
+Egmore,Chennai Central,Local Train,2.5,6,10,0
+Egmore,Nungambakkam,Local Train,4.0,8,10,0
+Egmore,Guindy,Local Train,10.0,20,15,0
+Egmore,Guindy,Metro,9.0,18,40,0
+Egmore,Guindy,Rapido Bike Taxi,10.0,25,100,0
+Egmore,Guindy,Cab,10.0,25,250,0
+Egmore,Guindy,Pink Auto,10.0,30,100,0
+Nungambakkam,T Nagar,MTC Bus,3.8,18,10,0
+T Nagar,Guindy,MTC Bus,7.0,30,15,0
+Guindy,Airport,Metro,7.5,15,30,0
+Guindy,Airport,Local Train,8.0,18,10,0
+Guindy,Airport,Rapido Bike Taxi,8.0,20,70,0
+Guindy,Airport,Cab,8.0,20,200,0
+Guindy,Airport,Pink Auto,8.0,25,80,0
+Guindy,Tambaram,Local Train,18.0,30,15,0
+Guindy,Tambaram,MTC Bus,20.0,55,20,0
+Guindy,Tambaram,Rapido Bike Taxi,20.0,40,150,0
+Guindy,Tambaram,Cab,20.0,40,400,0
+Guindy,Tambaram,Pink Auto,20.0,45,180,0
+Airport,Tambaram,Local Train,15.0,25,10,0
+Broadway,Chennai Central,Local Train,2.0,5,10,0
+Washermenpet,Egmore,Local Train,6.2,12,10,0
+Washermenpet,Chennai Central,Local Train,5.5,11,10,0
+Egmore,Chennai Central,Local Train,2.5,6,10,0
+Egmore,Nungambakkam,Local Train,4.0,8,10,0
+Egmore,Guindy,Local Train,10.0,20,15,0
+Guindy,Airport,Local Train,8.0,18,10,0
+Guindy,Tambaram,Local Train,18.0,30,15,0
+Airport,Tambaram,Local Train,15.0,25,10,0
+Broadway,Chennai Central,Local Train,2.0,5,10,0

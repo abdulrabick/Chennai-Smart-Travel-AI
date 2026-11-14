@@ -1,0 +1,57 @@
+{
+  "best_model": "Gradient Boosting",
+  "train_rows": 24000,
+  "test_rows": 6000,
+  "data_is_synthetic": true,
+  "results": {
+    "Naive mean": {
+      "mae_ratio": 0.1493430632625,
+      "rmse_ratio": 0.19213030940665893,
+      "r2": 0.0,
+      "mae_minutes": 3.2901631729020826,
+      "fit_seconds": 0.0
+    },
+    "Ridge (baseline)": {
+      "mae_ratio": 0.1012303829907175,
+      "rmse_ratio": 0.1286514155798403,
+      "r2": 0.5516083159212746,
+      "mae_minutes": 2.2427621052731563,
+      "fit_seconds": 0.05
+    },
+    "Random Forest": {
+      "mae_ratio": 0.07611184184872119,
+      "rmse_ratio": 0.1010681293557456,
+      "r2": 0.7232696029804324,
+      "mae_minutes": 1.748694694688645,
+      "fit_seconds": 1.73
+    },
+    "Gradient Boosting": {
+      "mae_ratio": 0.07323352836508859,
+      "rmse_ratio": 0.09678896689089395,
+      "r2": 0.7462067193328716,
+      "mae_minutes": 1.678497638679238,
+      "fit_seconds": 0.52
+    },
+    "Neural Network (MLP)": {
+      "mae_ratio": 0.0765109976543471,
+      "rmse_ratio": 0.10036594306522287,
+      "r2": 0.7271014987741518,
+      "mae_minutes": 1.7464695758651827,
+      "fit_seconds": 4.84
+    }
+  },
+  "feature_importance": {
+    "mode": 0.0565337296872012,
+    "rain_level": 0.033665187287242916,
+    "is_peak": 0.025709918067439302,
+    "hour_cos": 0.015448404585741565,
+    "day_of_week": 0.0062689957647813445,
+    "hour_sin": 0.004341148595120835,
+    "base_time_min": 6.901271733168735e-05,
+    "distance_km": 3.6190558447242914e-05,
+    "month_sin": 8.397280297176938e-06,
+    "is_weekend": 0.0,
+    "month_cos": -3.798238701503698e-05
+  },
+  "target": "delay_ratio = actual_time / scheduled_time"
+}

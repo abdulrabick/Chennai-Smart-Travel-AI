@@ -1,0 +1,95 @@
+station_name,latitude,longitude,osm_type,osm_id,railway,station,public_transport,subway,metro_status,map_colour,duplicate_name
+Alandur,13.0042558,80.2014525,node,5308690568,station,subway,station,yes,Phase 1 - Operational,blue,False
+St. Thomas Mount Metro,12.995044,80.1983746,node,5319202812,station,subway,station,yes,Phase 1 - Operational,blue,False
+Ekkattuthangal,13.0169222,80.2054236,node,5319207378,station,subway,station,yes,Phase 1 - Operational,blue,False
+Ashok Nagar,13.0354768,80.2111075,node,5319972796,station,subway,station,yes,Phase 1 - Operational,blue,False
+Vadapalani,13.0509367,80.212065,node,5319972798,station,subway,station,yes,Phase 1 - Operational,blue,True
+Arumbakkam,13.0616746,80.2116557,node,5319972799,station,subway,station,yes,Phase 1 - Operational,blue,False
+CMBT,13.0685197,80.2039836,node,5321248890,station,subway,station,yes,Phase 1 - Operational,blue,False
+Koyambedu,13.0734496,80.1948363,node,5321248896,station,subway,station,yes,Phase 1 - Operational,blue,False
+Pachaiyappa's College,13.0755466,80.2328522,node,5329907482,station,subway,station,yes,Phase 1 - Operational,blue,False
+Kilpauk,13.0776371,80.2426191,node,5329907487,station,subway,station,yes,Phase 1 - Operational,blue,False
+Nehru Park,13.0787841,80.250473,node,5329907490,station,subway,station,yes,Phase 1 - Operational,blue,False
+Egmore,13.0802807,80.2630546,node,5329907499,station,subway,station,yes,Phase 1 - Operational,blue,False
+ஆயிரம் விளக்கு,13.0585155,80.2587833,node,5337407346,station,subway,station,yes,Phase 1 - Operational,blue,False
+எல் ஐ சி,13.0643716,80.2658465,node,5337407350,station,subway,station,yes,Phase 1 - Operational,blue,False
+அரசினர் தோட்டம்,13.0696345,80.2730362,node,5337407354,station,subway,station,yes,Phase 1 - Operational,blue,False
+High Court,13.0872681,80.2849845,node,5337658083,station,subway,station,yes,Phase 1 - Operational,blue,False
+Mannadi,13.0954465,80.2861312,node,5337658088,station,subway,station,yes,Phase 1 - Operational,blue,False
+Washermanpet,13.1078469,80.280949,node,5337658099,station,subway,station,yes,Phase 1 - Operational,blue,False
+Nanganallur Road,12.9998798,80.1940099,node,6285857237,station,subway,station,yes,Phase 1 - Operational,blue,False
+Meenambakkam,12.9876728,80.1764787,node,6285857239,station,subway,station,yes,Phase 1 - Operational,blue,False
+Chennai International Airport,12.9808092,80.1642026,node,6285857241,station,subway,station,yes,Phase 1 - Operational,blue,False
+தேனாம்பேட்டை,13.0368003,80.2464194,node,6285857242,station,subway,station,yes,Phase 1 - Operational,blue,False
+நந்தனம்,13.0317092,80.2411957,node,6285857243,station,subway,station,yes,Phase 1 - Operational,blue,False
+சைதாப்பேட்டை,13.0239952,80.2281244,node,6285857244,station,subway,station,yes,Phase 1 - Operational,blue,False
+சின்னமலை,13.0146634,80.2241669,node,6285857246,station,subway,station,yes,Phase 1 - Operational,blue,False
+கிண்டி,13.0092746,80.2130846,node,6285857248,station,subway,station,yes,Phase 1 - Operational,blue,False
+ஏ ஜி டி.எம்.எஸ்,13.0458852,80.2482846,node,6285857249,station,subway,station,yes,Phase 1 - Operational,blue,False
+Central Metro,13.0817254,80.273916,node,6285857253,station,subway,station,yes,Phase 1 - Operational,blue,False
+Sir Theagaraya College,13.1157545,80.2847439,node,8430632406,station,subway,station,yes,Phase 1 - Operational,blue,False
+Tondiarpet,13.1245276,80.2888557,node,8430632416,station,subway,station,yes,Phase 1 - Operational,blue,False
+Wimco Nagar,13.1792903,80.3073435,node,8430636713,station,subway,station,yes,Phase 1 - Operational,blue,False
+Thiruvottriyur,13.1718028,80.3052689,node,8430636714,station,subway,station,yes,Phase 1 - Operational,blue,False
+Kaladipet,13.1506672,80.2993928,node,8430636715,station,subway,station,yes,Phase 1 - Operational,blue,False
+சுங்கச்சாவடி,13.1431344,80.2963291,node,8430636716,station,subway,station,yes,Phase 1 - Operational,blue,False
+புது வண்ணாரப்பேட்டை,13.1345195,80.2930011,node,8430636817,station,subway,station,yes,Phase 1 - Operational,blue,False
+Thiruvottiyur Theradi,13.1602152,80.3024483,node,9580013601,station,subway,station,yes,Phase 1 - Operational,blue,False
+Wimco Nagar Depot,13.1839706,80.3089939,node,9857416360,station,subway,station,yes,Depot / Non-passenger Facility,purple,False
+Porur Junction,13.0358677,80.1567516,node,13971965462,station,subway,station,yes,Phase 2 - Operational,green,False
+Poonamallee Bypass,13.0480587,80.0819773,node,13972050953,station,subway,station,yes,Phase 2 - Operational,green,False
+Thelliyaragaram,13.0369123,80.1415293,node,13972061019,station,subway,station,yes,Phase 2 - Operational,green,False
+Porur Bypass,13.0362258,80.1499706,node,13972063969,station,subway,station,yes,Phase 2 - Operational,green,False
+Kumananchavadi,13.0447606,80.1185445,node,13972457964,station,subway,station,yes,Phase 2 - Operational,green,False
+Poonamallee Government Hospital,13.0497117,80.1020746,node,13972487793,station,subway,station,yes,Phase 2 - Operational,green,False
+Poonamallee Bus Stand,13.0508883,80.0947411,node,13972488427,station,subway,station,yes,Phase 2 - Operational,green,False
+Kattupakkam,13.0420595,80.1251737,node,13972497043,station,subway,station,yes,Phase 2 - Operational,green,False
+Karayanchavadi,13.0467336,80.1107133,node,13972502091,station,subway,station,yes,Phase 2 - Operational,green,False
+Iyappanthangal,13.0382983,80.1347022,node,13972514096,station,subway,station,yes,Phase 2 - Operational,green,False
+Madhavaram Milk Colony,13.1496674,80.2414206,node,14018223514,station,subway,station,yes,Phase 2 - Planned / Construction,orange,False
+Sholinganallur Metro,12.9009583,80.2279647,node,14018223515,station,subway,station,yes,Phase 2 - Planned / Construction,orange,False
+Kodambakkam Metro,13.0521183,80.2311267,node,14018223516,station,subway,station,yes,Phase 2 - Planned / Construction,orange,False
+Panagal Park Metro,13.0410265,80.2334534,node,14018223517,station,subway,station,yes,Phase 2 - Planned / Construction,orange,False
+Boat Club Metro,13.02935,80.2477042,node,14018223518,station,subway,station,yes,Phase 2 - Planned / Construction,orange,False
+Bharathidasan Road Metro,13.0358142,80.2549764,node,14018223519,station,subway,station,yes,Phase 2 - Planned / Construction,orange,False
+Alwarpet Metro,13.0383009,80.2596459,node,14018223530,station,subway,station,yes,Phase 2 - Planned / Construction,orange,False
+Thirumayilai Metro,13.0368318,80.2676492,node,14018223531,station,subway,station,yes,Phase 2 - Planned / Construction,orange,False
+Kutchery Road Metro,13.0343635,80.2732323,node,14018223536,station,subway,station,yes,Phase 2 - Planned / Construction,orange,False
+Lighthouse Metro,13.0438378,80.2800425,node,14018223537,station,subway,station,yes,Phase 2 - Planned / Construction,orange,False
+Madhavaram Depot,13.1557578,80.2386637,node,14023022804,station,subway,station,yes,Depot / Non-passenger Facility,purple,False
+Royapettah Metro,13.0545082,80.2642393,node,14023780633,station,subway,station,yes,Phase 2 - Planned / Construction,orange,False
+Kodambakkam Powerhouse,13.0516452,80.2178661,node,14125845268,station,subway,station,yes,Phase 2 - Planned / Construction,orange,False
+Alwarthirunagar,13.0462885,80.18869,node,14125845269,station,subway,station,yes,Phase 2 - Planned / Construction,orange,False
+Valasaravakkam,13.0422173,80.1803891,node,14125845270,station,subway,station,yes,Phase 2 - Planned / Construction,orange,False
+Karambakkam,13.0395651,80.1702379,node,14125845275,station,subway,station,yes,Phase 2 - Planned / Construction,orange,False
+Alapakkam,13.0381814,80.1635898,node,14125845276,station,subway,station,yes,Phase 2 - Planned / Construction,orange,False
+Virugambakkam South,13.047462,80.1965573,node,14127634032,station,subway,station,yes,Phase 2 - Planned / Construction,orange,False
+Saligramam,13.0483303,80.2052414,node,14127634035,station,subway,station,yes,Phase 2 - Planned / Construction,orange,False
+Virugambakkam North,13.0510152,80.1920622,node,14127634037,station,subway,station,yes,Phase 2 - Planned / Construction,orange,False
+Natesan Nagar,13.0583617,80.1947458,node,14127634038,station,subway,station,yes,Phase 2 - Planned / Construction,orange,False
+Koyambedu Market,13.0649846,80.1982045,node,14127634039,station,subway,station,yes,Phase 2 - Planned / Construction,orange,False
+Madhavaram Bus Terminal Metro,13.1455939,80.2207755,node,14178350594,station,subway,station,yes,Phase 2 - Planned / Construction,orange,False
+Assissi Nagar,13.1603731,80.2323562,node,14185647961,station,subway,station,yes,Phase 2 - Planned / Construction,orange,False
+Manjampakkam,13.161402,80.2270498,node,14185647962,station,subway,station,yes,Phase 2 - Planned / Construction,orange,False
+Velmurugan Nagar,13.1531998,80.2236866,node,14185647963,station,subway,station,yes,Phase 2 - Planned / Construction,orange,False
+Shastri Nagar,13.1388939,80.2177241,node,14185647964,station,subway,station,yes,Phase 2 - Planned / Construction,orange,False
+Retteri Junction Metro,13.1322567,80.2148373,node,14185647965,station,subway,station,yes,Phase 2 - Planned / Construction,orange,False
+Kolathur,13.1252742,80.2052708,node,14185647966,station,subway,station,yes,Phase 2 - Planned / Construction,orange,False
+Srinivasa Nagar,13.1183718,80.2088978,node,14185647971,station,subway,station,yes,Phase 2 - Planned / Construction,orange,False
+Villivakkam Metro,13.1110058,80.2108042,node,14185647972,station,subway,station,yes,Phase 2 - Planned / Construction,orange,False
+Mugalivakkam,13.0321133,80.1637971,node,14185676079,station,subway,station,yes,Phase 2 - Planned / Construction,orange,False
+Ramapuram,13.0263174,80.174184,node,14185676080,station,subway,station,yes,Phase 2 - Planned / Construction,orange,False
+Manapakkam,13.0214749,80.1828529,node,14185676081,station,subway,station,yes,Phase 2 - Planned / Construction,orange,False
+Chennai Trade Centre,13.015643,80.1913035,node,14185676082,station,subway,station,yes,Phase 2 - Planned / Construction,orange,False
+Butt Road,13.0085967,80.1991037,node,14185676083,station,subway,station,yes,Phase 2 - Planned / Construction,orange,False
+Vadapalani,13.0498046,80.2112425,node,14240033431,station,subway,station,yes,Phase 2 - Operational,green,True
+Villivakkam Bus Terminus Metro,13.1053691,80.2081151,node,14349944269,station,subway,station,yes,Phase 2 - Planned / Construction,orange,False
+Anna Nagar West,13.0964107,80.1986581,node,14349944270,station,subway,station,yes,Phase 2 - Planned / Construction,orange,False
+Thirumangalam Junction,13.0876006,80.1988371,node,14349944271,station,subway,station,yes,Phase 2 - Planned / Construction,orange,False
+Villivakkam CTH Road,13.1034585,80.2014724,node,14349944272,station,subway,station,yes,Phase 2 - Planned / Construction,orange,False
+Anna Nagar KV,13.0801768,80.1986254,node,14349944277,station,subway,station,yes,Phase 2 - Planned / Construction,orange,False
+Shenoy Nagar Metro,13.0789536,80.225201,way,393560244,station,subway,station,yes,Phase 1 - Operational,blue,False
+Chennai Suburban Terminal (Moore Market Complex),13.0831741,80.2740399,way,1115820281,station,subway,station,yes,Needs Verification,grey,False
+Anna Nagar Tower,13.08514,80.2086,way,1314817095,station,subway,station,yes,Phase 1 - Operational,blue,False
+Thirumangalam,13.08528,80.20152,way,1314817096,station,subway,station,yes,Phase 1 - Operational,blue,False
+Anna Nagar East,13.0846594,80.2191116,way,1314817097,station,subway,station,yes,Phase 1 - Operational,blue,False
